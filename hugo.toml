@@ -3,5 +3,14 @@ languageCode = 'ja-jp'
 title = 'Naoshi Isaki Blog'
 theme = 'PaperMod'
 
+[frontmatter]
+date = ["date", "publishDate", "lastmod"]
+
 [markup.goldmark.renderer]
 unsafe = true
+
+[params]
+    showFullTextContent = false
+    # 記事一覧で日付を表示する設定
+    ShowReadingTime = true
+    ShowPostNavLinks = true
