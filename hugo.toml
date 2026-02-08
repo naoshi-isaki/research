@@ -1,0 +1,4 @@
+baseURL = 'https://naoshi-isaki.github.io/nisaki-research/'
+languageCode = 'ja-jp'
+title = 'Naoshi Isaki Blog'
+theme = 'PaperMod'
