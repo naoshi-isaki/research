@@ -9,6 +9,7 @@ tags:
   - Must-read
   - political_party
 ---
+
 <p>◁Erossman, E., &amp; Guinaudeau, I. (2024). Tunnels of 
 Attention: Reconsidering Issue Competition. Comparative Political Studies, 00104140241302756.<br />https://doi.org/10.1177/00104140241302756</p>
 <blockquote>

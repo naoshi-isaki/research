@@ -6,6 +6,7 @@ entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-68024183983
 author: Nisaki
 edited: 2025-05-01T18:02:16+09:00
 ---
+
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fecpr.eu%2FShop%2FShopProductInfo%3FproductID%3D14" title="Masters of Political Science" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
 display: block; 
 width: 100%; 

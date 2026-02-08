@@ -6,6 +6,7 @@ entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-68028885652
 author: Nisaki
 edited: 2025-10-05T23:12:55+09:00
 ---
+
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="ja">
 <p dir="ltr" lang="en">Claus Offe<br /><br />These are some works that will give you a sense of what kind of a thinker Offe was.<br /><br />Contradictions of the Welfare 
 State: <a href="https://t.co/9SOiyVZtC0">https://t.co/9SOiyVZtC0</a><br /><br />Two 

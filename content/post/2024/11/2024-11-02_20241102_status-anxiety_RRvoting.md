@@ -6,6 +6,7 @@ entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-68024183983
 author: Nisaki
 edited: 2024-11-05T11:40:59+09:00
 ---
+
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:xqroftjlkjq74wa6x4bqw6gf/app.bsky.feed.post/3l7gf4pa3xm2b" data-bluesky-cid="bafyreigcjaoazarfggihwx3hv4nvpz67kiwkzkkxgdetls3yicylvtw6q4">
 <p lang="en">Seymour Martin Lipset was a true visionary. Already in the 1950s, he explained support for the radical right through “status anxiety E www.nytimes.com/interactive/...</p>
  E<a href="https://bsky.app/profile/did:plc:xqroftjlkjq74wa6x4bqw6gf?ref_src=embed">Cas Mudde (@casmudde.bsky.social)</a> <a href="https://bsky.app/profile/did:plc:xqroftjlkjq74wa6x4bqw6gf/post/3l7gf4pa3xm2b?ref_src=embed">2024-10-26T15:20:07.765Z</a></blockquote>

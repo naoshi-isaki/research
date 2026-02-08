@@ -6,6 +6,7 @@ entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-68028885652
 author: Nisaki
 edited: 2025-11-29T22:29:23+09:00
 ---
+
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fterriblesoftware.org%2F2025%2F10%2F01%2Fstop-avoiding-politics%2F" title="Stop Avoiding Politics" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
 display: block; 
 width: 100%; 

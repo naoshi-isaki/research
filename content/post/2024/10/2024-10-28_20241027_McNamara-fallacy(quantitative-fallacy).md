@@ -8,6 +8,7 @@ edited: 2024-10-28T11:01:45+09:00
 tags:
   - others
 ---
+
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fbigthink.com%2Fbusiness%2Fthe-mcnamara-fallacy-when-data-leads-to-the-worst-decision%2F" title="The &quot;McNamara fallacy&quot;: When data leads to the worst decision" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
 display: block; 
 width: 100%; 

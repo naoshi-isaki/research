@@ -6,6 +6,7 @@ entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-68024183983
 author: Nisaki
 edited: 2024-11-05T19:05:00+09:00
 ---
+
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fthreadreaderapp.com%2Fthread%2F1853182240219689061.html" title="Thread by @alexgazmararian on Thread Reader App" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
 display: block; 
 width: 100%; 

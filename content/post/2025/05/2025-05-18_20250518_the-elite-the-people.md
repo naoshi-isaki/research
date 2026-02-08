@@ -6,6 +6,7 @@ entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-68024183984
 author: Nisaki
 edited: 2025-10-30T11:34:15+09:00
 ---
+
 <p>Karavasilis, L. (2025). What we talk about when we talk about  Ehe elite Ein populism 
 studies: re-examining an often-neglected term in the cases of Die Linke and AfD. Critical Discourse Studies, 1 E7.<br />https://doi.org/10.1080/17405904.2025.2496630</p>
 <blockquote>

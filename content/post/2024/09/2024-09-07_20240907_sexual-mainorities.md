@@ -8,6 +8,7 @@ edited: 2024-09-07T21:12:53+09:00
 tags:
   - grancing_abstracts
 ---
+
 <p>Daoust, J. F., Çakır, S., Dassonneville, R., &amp; Guévremont, M. (2024). Do sexual minorities participate more in politics?. Research &amp; Politics, 11(3), 20531680241272647.<br /><a href="https://doi.org/10.1177/20531680241272647" target="_blank">https://doi.org/10.1177/20531680241272647</a></p>
 <blockquote>
 <p>政治により多く参加する個人は、政治皁E��よりよく代表される傾向がある、Eそ�E結果、Estrong>どの雁E��がより参加しやすく、どの雁E��がより参加しにくいぁE/strong>を調べることは重要である、E本稿では、これまであまり注目されてこなかった重要なグループ、すなわち<strong>性皁E�EイノリチE��の制度皁E�E非制度皁E��治参加</strong>につぁE��研究する、Eそ�Eために、�E、E�E<span style="

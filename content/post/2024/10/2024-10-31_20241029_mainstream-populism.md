@@ -9,6 +9,7 @@ tags:
   - political_party
   - populism
 ---
+
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fosf.io%2Fwb8ev" title="OSF" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
 display: block; 
 width: 100%; 

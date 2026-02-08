@@ -6,6 +6,7 @@ entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-17179246901
 author: Nisaki
 edited: 2025-12-29T13:06:15+09:00
 ---
+
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fnews.jp%2Fi%2F1377176327483998628%3Fc%3D39550187727945729" title="立�E民主党、中道推進で国際連携　「進歩同盟」加盟申請へ | NEWSjp" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
 display: block; 
 width: 100%; 

@@ -6,6 +6,7 @@ entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-68024183983
 author: Nisaki
 edited: 2025-05-01T18:13:55+09:00
 ---
+
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fnisaki.hatenablog.jp%2Fentry%2F2025%2F03%2F07%2F155315" title="https://nisaki.hatenablog.jp/entry/2025/03/07/155315" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="
 display: block; 
 width: 100%; 

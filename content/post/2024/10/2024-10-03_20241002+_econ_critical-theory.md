@@ -8,6 +8,7 @@ edited: 2025-12-29T23:03:27+09:00
 tags:
   - discipline
 ---
+
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fecon101.jp%2Fwhat-does-a-modern-witch-hunt-look-like%2F" title="ジョセフ�Eヒ�Eス「現代の魔女狩り：批判琁E��が陰謀論的な犯人探しに陥ってしまぁE��由」！E024年3朁E2日�E�E class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
 display: block; 
 width: 100%; 

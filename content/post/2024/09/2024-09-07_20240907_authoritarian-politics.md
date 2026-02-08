@@ -6,6 +6,7 @@ entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-68023406309
 author: Nisaki
 edited: 2024-09-07T17:53:58+09:00
 ---
+
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Ftheconversation.com%2Fpopulisms-summer-of-discontent-are-voters-turning-their-backs-on-authoritarians-238140" title="Populism’s summer of 
 discontent: Are voters turning their backs on authoritarians?" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
 display: block; 

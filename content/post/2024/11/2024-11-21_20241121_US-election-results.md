@@ -8,6 +8,7 @@ edited: 2024-12-07T11:22:27+09:00
 tags:
   - U.S.
 ---
+
 <p><a href="https://www.electionanalysis.ws/us/" target="_blank">https://www.electionanalysis.ws/us/</a></p>
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fecon101.jp%2Frealignment-of-the-american-electorate%2F" title="アダム・トゥーズ「トランプによる共和�Eの過激化と、アメリカの有権老E�E再編成」！E024年11朁E1日�E�E class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
 display: block; 

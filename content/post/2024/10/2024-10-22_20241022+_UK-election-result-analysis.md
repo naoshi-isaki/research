@@ -8,6 +8,7 @@ edited: 2024-12-07T08:43:34+09:00
 tags:
   - UK
 ---
+
 <ul>
 <li>Curtice, J. (2024). General Election 2024: How Britain Voted. Political Insight, 15(3), 9-13. https://doi.org/10.1177/20419058241282452<br />
 <blockquote>

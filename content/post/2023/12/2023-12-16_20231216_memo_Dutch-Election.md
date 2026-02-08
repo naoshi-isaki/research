@@ -8,6 +8,7 @@ edited: 2023-12-20T02:22:11+09:00
 tags:
   - Dutch
 ---
+
 <blockquote>
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.illiberalism.org%2Fgeert-wilders-win-is-not-a-victory-for-freedom%2F" title="Geert Wilders Ewin is not a victory &quot;for Freedom&quot; | illiberalism.org" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
 display: block; 

@@ -8,6 +8,7 @@ edited: 2023-12-21T11:30:51+09:00
 tags:
   - populism
 ---
+
 <blockquote>
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.foreignaffairs.com%2Farticles%2Funited-states%2F2020-08-06%2Fpandemic-hasnt-killed-populism" title="The Pandemic Hasn’t Killed Populism" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
 display: block; 

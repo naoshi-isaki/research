@@ -8,6 +8,7 @@ edited: 2024-12-07T08:06:00+09:00
 tags:
   - political_party
 ---
+
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fpoliticscentre.nuffield.ox.ac.uk%2Fprogressive-politics-research-network%2Fresearch-briefs%2F" title="Research briefs - Nuffield Politics Research Centre" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
 display: block; 
 width: 100%; 

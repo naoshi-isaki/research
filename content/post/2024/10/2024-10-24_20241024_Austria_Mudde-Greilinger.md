@@ -6,6 +6,7 @@ entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-68024183982
 author: Nisaki
 edited: 2024-10-24T15:41:13+09:00
 ---
+
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.theguardian.com%2Fcommentisfree%2F2024%2Foct%2F22%2Feurope-far-right-austria-herbert-kickl-fpo-centre-right" title="Europe’s far right will look at Austria and 
 say: this is how we do it | Cas Mudde and Gabriela Greilinger" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
 display: block; 

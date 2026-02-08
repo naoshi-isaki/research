@@ -6,6 +6,7 @@ entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-17179246901
 author: Nisaki
 edited: 2025-12-31T23:23:40+09:00
 ---
+
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.e-elgar.com%2Fshop%2Fgbp%2Fa-research-agenda-for-neoliberalism-9781786433589.html" title="A Research Agenda for Neoliberalism" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
 display: block; 
 width: 100%; 

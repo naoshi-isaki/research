@@ -6,6 +6,7 @@ entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-17179246901
 author: Nisaki
 edited: 2025-12-29T18:40:12+09:00
 ---
+
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fjacobin.com%2F2025%2F12%2Freform-revolution-history-social-democracy%2F" title="The Revolutionary Roots of Social Democracy" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
 display: block; 
 width: 100%; 

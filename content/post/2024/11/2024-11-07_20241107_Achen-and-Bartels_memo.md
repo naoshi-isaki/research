@@ -6,6 +6,7 @@ entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-68024183983
 author: Nisaki
 edited: 2025-07-20T21:51:18+09:00
 ---
+
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fpress.princeton.edu%2Fbooks%2Fhardcover%2F9780691169446%2Fdemocracy-for-realists" title="Democracy for Realists" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
 display: block; 
 width: 100%; 

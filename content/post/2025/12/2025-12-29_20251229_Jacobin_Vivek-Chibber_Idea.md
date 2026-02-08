@@ -9,6 +9,7 @@ tags:
   - polical_studies
   - Must-read
 ---
+
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fjacobin.com%2F2025%2F12%2Fneoliberalism-keynes-friedman-hayek-class%2F" title="Power, Not Economic Theory, Created Neoliberalism" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
 display: block; 
 width: 100%; 

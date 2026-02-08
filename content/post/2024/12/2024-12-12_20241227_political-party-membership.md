@@ -10,6 +10,7 @@ tags:
   - political_party
   - grancing_abstracts
 ---
+
 <p>Butzlaff, F. (2024). Creating new participatory linkages? Political parties and democratisation in Germany, Austria, and the UK. Party Politics, 0(0). https://doi.org/10.1177/13540688241306727</p>
 <blockquote>
 <p>近代化と個人化が引き起こす信頼、会員、有権老E�E喪失は、政党研究においてし�Eらく取り上げられてきた、Eしかし、�EチE��、バウマン、セネット、テイラーとぁE��た社会理論�E著老E�E、これまで深く取り上げられてこなかった絁E��上�Eジレンマを持E��してぁE��、E本稿では、異なる既成政党ファミリーがこれらの矛盾をどのように受け止め、新たな政党と社会�E結�Eつきを創造しよぁE��してぁE��のかを比輁E��る、E社会民主主義政党と保守主義政党�E幹部との一連の質皁E��ンタビューに基づき、異なる政党ファミリーめE��の改革の試みが、個人化、柔軟性、流動皁E��アイチE��チE��チE��を異なる形で反映し、その結果、市民と政党や代議制民主主義との結�Eつきを再構築してぁE��ことを強調する、E/p>
