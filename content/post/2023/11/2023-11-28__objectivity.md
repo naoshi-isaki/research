@@ -1,4 +1,5 @@
 ---
+
 title: /objectivity
 published: 2023-11-28
 updated: 2023-11-28T21:51:53+09:00
@@ -8,9 +9,13 @@ author: Nisaki
 edited: 2023-11-28T21:51:53+09:00
 draft: true
 ---
-
 <blockquote>
-<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fdigital.asahi.com%2Farticles%2FASRBZ3JWJRBWUCVL003.html" title="「エビデンス」がなぁE��駁E��ですか?　数値がすくい取れなぁE��琁E��は�E�朝日新聞デジタル" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://digital.asahi.com/articles/ASRBZ3JWJRBWUCVL003.html">digital.asahi.com</a></cite></p>
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fdigital.asahi.com%2Farticles%2FASRBZ3JWJRBWUCVL003.html" title="「エビデンス」がなぁE��駁E��ですか?　数値がすくい取れなぁE��琁E��は�E�朝日新聞デジタル" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
+display: block; 
+width: 100%; 
+height: 155px; 
+max-width: 500px; 
+margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://digital.asahi.com/articles/ASRBZ3JWJRBWUCVL003.html">digital.asahi.com</a></cite></p>
 </blockquote>
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="ja">
 <p dir="ltr" lang="ja">朝日新聞デジタル. 「「エビデンス」がなぁE��駁E��ですか?　数値がすくい取れなぁE��琁E��は、E 2023年10朁E1日 <a href="https://t.co/OiPopVuU3u">https://t.co/OiPopVuU3u</a><br />を今から読んでぁE���E�E/p>

@@ -1,4 +1,5 @@
 ---
+
 title: 20241002+/econ/critical-theory
 published: 2024-10-03
 updated: 2024-10-03T01:43:23+09:00
@@ -9,8 +10,12 @@ edited: 2025-12-29T23:03:27+09:00
 tags:
   - discipline
 ---
-
-<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fecon101.jp%2Fwhat-does-a-modern-witch-hunt-look-like%2F" title="ジョセフ�Eヒ�Eス「現代の魔女狩り：批判琁E��が陰謀論的な犯人探しに陥ってしまぁE��由」！E024年3朁E2日�E�E class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://econ101.jp/what-does-a-modern-witch-hunt-look-like/">econ101.jp</a></cite></p>
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fecon101.jp%2Fwhat-does-a-modern-witch-hunt-look-like%2F" title="ジョセフ�Eヒ�Eス「現代の魔女狩り：批判琁E��が陰謀論的な犯人探しに陥ってしまぁE��由」！E024年3朁E2日�E�E class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
+display: block; 
+width: 100%; 
+height: 155px; 
+max-width: 500px; 
+margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://econ101.jp/what-does-a-modern-witch-hunt-look-like/">econ101.jp</a></cite></p>
 <p>Latour, B. (2004). Why has critique run out of steam? From matters of fact to matters of concern. Critical inquiry, 30(2), 225-248.<br /><a href="http://www.bruno-latour.fr/sites/default/files/89-CRITICAL-INQUIRY-GB.pdf" target="_blank">http://www.bruno-latour.fr/sites/default/files/89-CRITICAL-INQUIRY-GB.pdf</a></p>
 <ul>
 <li>
@@ -20,7 +25,8 @@ tags:
 </li>
 <li>
 <blockquote>
-<p><span style="text-decoration: underline;">そ�Eため、このタイプ�E陰謀論�E第�E��E構�E要素は「パターンを見�Eす」ことだ。第�E��E構�E要素�E�陰謀論に斁E��通りの意味での「陰謀」を絁E��込む部刁E���E、そぁE��たパターンを人間によるなんらか�E行為の結果と見なすこと、つまり、そのパターンを説明するよぁE��意図皁E��体が存在すると措定することである、E/span>パターンが庁E��E��に見られるも�Eなら、〔そぁE��たパターンが�E立するためには〕たくさん�E人間�E間でのコーチE��ネ�Eションが忁E��になる。そしてそれを説明するには陰謀を想定しなければならなくなる、E/p>
+<p><span style="
+text-decoration: underline;">そ�Eため、このタイプ�E陰謀論�E第�E��E構�E要素は「パターンを見�Eす」ことだ。第�E��E構�E要素�E�陰謀論に斁E��通りの意味での「陰謀」を絁E��込む部刁E���E、そぁE��たパターンを人間によるなんらか�E行為の結果と見なすこと、つまり、そのパターンを説明するよぁE��意図皁E��体が存在すると措定することである、E/span>パターンが庁E��E��に見られるも�Eなら、〔そぁE��たパターンが�E立するためには〕たくさん�E人間�E間でのコーチE��ネ�Eションが忁E��になる。そしてそれを説明するには陰謀を想定しなければならなくなる、E/p>
 </blockquote>
 </li>
 <li>
@@ -31,12 +37,18 @@ tags:
 </li>
 <li>
 <blockquote>
-<p>ちなみに、こぁE��たまずい老E��方の多くはフ�Eコー、そして彼の精神�E析に対する根本皁E��異論にまで遡ることができる。フーコーはフロイト�E議論に腹を立て、人間�E本能を持つとぁE��老E��を拒否するばかりか、人間がなんらか�E忁E��皁E��向、バイアス、発達傾向を生得的にそなえてぁE��とぁE��ことすら否定した。�E然が人間に与えた�Eは身体だけであり、その他�Eも�Eは全て�E�主体それ�E身はもちろん、あらゆる欲求も含めE��、ディスコースめE��力�E体制の産物である�E�左派の間で人間を「身体」と呼ぶのが流行ってぁE��のはここから来てぁE���E�、Espan style="text-decoration: underline;">こ�Eフ�Eコーの見解は進歩派にとって魁E��皁E��ある。社会的権力�E構造に異議を突き付け転換をもたらせば、人間忁E��に関するどんな事柄も変更可能と信じられるからだ。だがフーコーの議論�E、そぁE��た社会的権力�E体制が私たちの生活にどんな影響を及ぼす�EかにつぁE��、あらゆる種類�E陰謀論的老E��を俁E��とぁE��残念な結果をもたらしてぁE��。 </span></p>
+<p>ちなみに、こぁE��たまずい老E��方の多くはフ�Eコー、そして彼の精神�E析に対する根本皁E��異論にまで遡ることができる。フーコーはフロイト�E議論に腹を立て、人間�E本能を持つとぁE��老E��を拒否するばかりか、人間がなんらか�E忁E��皁E��向、バイアス、発達傾向を生得的にそなえてぁE��とぁE��ことすら否定した。�E然が人間に与えた�Eは身体だけであり、その他�Eも�Eは全て�E�主体それ�E身はもちろん、あらゆる欲求も含めE��、ディスコースめE��力�E体制の産物である�E�左派の間で人間を「身体」と呼ぶのが流行ってぁE��のはここから来てぁE���E�、Espan style="
+text-decoration: underline;">こ�Eフ�Eコーの見解は進歩派にとって魁E��皁E��ある。社会的権力�E構造に異議を突き付け転換をもたらせば、人間忁E��に関するどんな事柄も変更可能と信じられるからだ。だがフーコーの議論�E、そぁE��た社会的権力�E体制が私たちの生活にどんな影響を及ぼす�EかにつぁE��、あらゆる種類�E陰謀論的老E��を俁E��とぁE��残念な結果をもたらしてぁE��。 </span></p>
 </blockquote>
 </li>
 </ul>
 <p>---</p>
-<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fecon101.jp%2Fjoseph-heath-problems-in-the-theory-of-ideology%2F" title="ジョセフ�Eヒ�Eス「イチE��ロギー論�E諸問題」！E001年10朁E日�E�E class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe></p>
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fecon101.jp%2Fjoseph-heath-problems-in-the-theory-of-ideology%2F" title="ジョセフ�Eヒ�Eス「イチE��ロギー論�E諸問題」！E001年10朁E日�E�E class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
+display: block; 
+width: 100%; 
+height: 155px; 
+max-width: 500px; 
+margin: 10px 0px;" loading="lazy"></iframe></p>
 <p><cite class="hatena-citation"><a href="https://econ101.jp/joseph-heath-problems-in-the-theory-of-ideology/">econ101.jp</a></cite></p>
 <ul>
 <li>
@@ -91,7 +103,12 @@ tags:
 </blockquote>
 </li>
 </ul>
-<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fecon101.jp%2Fthe-problem-with-critical-studies%2F" title="ジョセフ�Eヒ�Eス「『批判皁E��研究の問題」！E018年1朁E6日�E�E class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://econ101.jp/the-problem-with-critical-studies/">econ101.jp</a></cite></p>
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fecon101.jp%2Fthe-problem-with-critical-studies%2F" title="ジョセフ�Eヒ�Eス「『批判皁E��研究の問題」！E018年1朁E6日�E�E class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
+display: block; 
+width: 100%; 
+height: 155px; 
+max-width: 500px; 
+margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://econ101.jp/the-problem-with-critical-studies/">econ101.jp</a></cite></p>
 <ul>
 <li>
 <blockquote>ずいぶん前のことだけど�E�ハーバ�Eースがフーコーを批判する論稿を書ぁE���E�そこでハ�Eバ�Eースはフ�Eコーのことを「ゴニョゴニョ規篁E��義 cryptonormativism」だと言って非難してぁE���E�どぁE��ぁE��ころを非難してぁE��のかと言ぁE���E�フーコーの著作�E明らかにあれめE��れやの道徳皁E��懸念・関忁E��かきたてられて生まれてぁE��のに�E�当人はそうして傾倒してぁE��道徳皁E��事柄がどぁE��ぁE��のなのか頑としてはっきり述べようとしなかった．そのかわりに�E�とかく「権力」「体制」とぁE��た規篁E��な意味合いがにじ�E語彙を修辞的な裁E��に使って�E�じぶん�E規篁E��な判断を読老E��共有するよぁE��向けつつ�E�その一方で�E��E式にはじ�Eん�EべつにそんなことをしちめE��なぁE��否認してぁE���E�つまり，問題�E�E�フーコーがじぶん�E価値観をこっそり忍�E込ませつつそんなまねはしてませんとぁE��ぶぁE��ぁE��ところだ�E�ハーバ�Eースに言わせれ�E�E�まがいも�EでなぁE��判琁E��にそんなごまかしは無用だ�E�規篁E��な原理原則を�E示皁E��導�Eして�E�それを擁護する合理皁E��議論を提示すべきだとハ�Eバ�Eースは論じた！E/blockquote>
@@ -107,31 +124,46 @@ tags:
 </blockquote>
 </li>
 </ul>
-<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fecon101.jp%2Fanatomy-of-a-kvetch%2F" title="ジョセフ�Eヒ�Eス「『批判』と『ぼめE��』を区別する」！E025年12朁E日�E�E class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://econ101.jp/anatomy-of-a-kvetch/">econ101.jp</a></cite></p>
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fecon101.jp%2Fanatomy-of-a-kvetch%2F" title="ジョセフ�Eヒ�Eス「『批判』と『ぼめE��』を区別する」！E025年12朁E日�E�E class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
+display: block; 
+width: 100%; 
+height: 155px; 
+max-width: 500px; 
+margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://econ101.jp/anatomy-of-a-kvetch/">econ101.jp</a></cite></p>
 <ul>
 <li>
 <blockquote>
 <p>　とは言ぁE��がらも、「批判�E�Eritique�E�」や「批判皁E��Eritical�E�」とぁE��た語�E使われ方が手に負えなぁE��のになってぁE��、とぁE��一般皁E��感覚�E私も共有してぁE��。私�E身の批判琁E���E琁E��は伝統皁E��立場に属すも�Eで、批判琁E��（なぁE��批判皁E��会科学�E�とぁE��のは、規篁E��関忁E��経験的関忁E��実践皁E��忁E��明示皁E��形で絁E��合わせた社会科学皁E��究の一形態である、とぁE��も�Eだ。ジェームズ・ボ�Eマン�E�Eames Bohman�E�がかつて�E��EチE��ス・ホルクハイマ�Eの「伝統皁E��論と批判琁E��」につぁE���E�述べたよぁE���E�E/p>
-<p><span style="color: #d32f2f;">〈�Eルクハイマ�Eによる批判琁E���E定義に従うと、批判琁E��が適刁E��も�Eであるためには、説明的であること、実践皁E��あること、規篁E��であることとぁE���E�つの基準が同時に満たされなければならなぁE��つまり、批判琁E���E、現下�E社会的現実�Eどこが間違ってぁE��のかを説明し、それを変革すべき主体が誰であるかを特定し、さらに、批判のための明確な規篁E��、社会変革に向けた実現可能な実践皁E��標�E双方を提示しなければならなぁE��、E/span></p>
+<p><span style="
+color: #d32f2f;">〈�Eルクハイマ�Eによる批判琁E���E定義に従うと、批判琁E��が適刁E��も�Eであるためには、説明的であること、実践皁E��あること、規篁E��であることとぁE���E�つの基準が同時に満たされなければならなぁE��つまり、批判琁E���E、現下�E社会的現実�Eどこが間違ってぁE��のかを説明し、それを変革すべき主体が誰であるかを特定し、さらに、批判のための明確な規篁E��、社会変革に向けた実現可能な実践皁E��標�E双方を提示しなければならなぁE��、E/span></p>
 <p>　こ�E基準に従えば、現在「批判皁E��学究を名乗ってぁE��研究の大半�E、実際には�E�少なくとも伝統皁E��意味では�E�批判琁E��とは言えなぁE��最も�E白なのは、これらの研究が、探究の規篁E��基盤を�E示皁E��述べるため�E努力を全く行ってぁE��ぁE��とだ。この手�E研究のほとんどは、ミシェル・フ�EコーめE��エール・ブルチE��ーに由来する刁E��枠絁E��を利用してぁE��が、両老E�EぁE��れも、規篁E��に基礎づけられた社会批判の可能性を�E確に否定してぁE��。この系譜において仕事を行ってぁE��研究老E��ちが、�Eらかに社会正義へのコミットメントに動機づけられてぁE��にもかかわらず、正義が何を要請する�EかにつぁE��自ら�E老E��を述べる段になると、�Eどく歯刁E��が悪くなる�Eはこ�Eためである、E/p>
 </blockquote>
 </li>
 <li>
 <blockquote>
-<p>こうした老E��に基づぁE��私�E、「批判」とぁE��語を、少なくともある程度は厳格な仕方で用ぁE��ぁE��思うようになった、Espan style="text-decoration: underline;">とぁE��のは、�Eら�E特定した問題が少なくとも対処は可能であると示す努力をしなぁE��ら、それ�E本当�E意味での「批判」ではなぁE��と思ってぁE��からである�E�批判は「社会変革に向けた実現可能な実践皁E��標」を提示しなければならなぁE��とぁE��先�Eボ�Eマンの主張を思い出そう�E�、E/span>「賁E��主義」を巡るレトリチE��、そして、賁E��主義シスチE��の不完�E性を極めて道徳皁E��仕方で非難する政治哲学の近年のトレンドほど、こぁE��た厳格な言葉遣ぁE��忁E��となる場面はなぁE��この手�E議論�E不誠実さに満ち溢れてぁE��。とぁE��のも、半ばマルクス主義皁E��身振りで賁E��主義をレトリカルに糾弾してはぁE��が、なんらか�E意味で現状からの改喁E��もたらすと言えるような社会主義シスチE��をどぁE��計すれ�EぁE��のかにつぁE��、誰も見当すらつぁE��ぁE��ぁE��らだ、E/p>
+<p>こうした老E��に基づぁE��私�E、「批判」とぁE��語を、少なくともある程度は厳格な仕方で用ぁE��ぁE��思うようになった、Espan style="
+text-decoration: underline;">とぁE��のは、�Eら�E特定した問題が少なくとも対処は可能であると示す努力をしなぁE��ら、それ�E本当�E意味での「批判」ではなぁE��と思ってぁE��からである�E�批判は「社会変革に向けた実現可能な実践皁E��標」を提示しなければならなぁE��とぁE��先�Eボ�Eマンの主張を思い出そう�E�、E/span>「賁E��主義」を巡るレトリチE��、そして、賁E��主義シスチE��の不完�E性を極めて道徳皁E��仕方で非難する政治哲学の近年のトレンドほど、こぁE��た厳格な言葉遣ぁE��忁E��となる場面はなぁE��この手�E議論�E不誠実さに満ち溢れてぁE��。とぁE��のも、半ばマルクス主義皁E��身振りで賁E��主義をレトリカルに糾弾してはぁE��が、なんらか�E意味で現状からの改喁E��もたらすと言えるような社会主義シスチE��をどぁE��計すれ�EぁE��のかにつぁE��、誰も見当すらつぁE��ぁE��ぁE��らだ、E/p>
 <p>こ�E最もコミカルな例�E恐らく、�Eーク・フィチE��ャーの著書『賁E��主義リアリズム』だろう。本書でフィチE��ャーは、「賁E��主義へのオルタナティブ�E存在しなぁE��とぁE��見方をイチE��ロギー皁E��と非難し、E00ペ�Eジほどかけて左派の〔賁E��主義への〕認識的な囚われを批判するのだが（「ここでの『リアリズム』�E、いかなる�EジチE��ブな状態、あるいはぁE��なる望みも、危険な幻想だと老E��てしまぁE��ぁE��老E�E悲観皁E��点と類比的だ」）、賁E��主義に代わるぁE��なるオルタナティブも提示しなぁE��ま本書を閉じてぁE��、E/p>
 </blockquote>
 </li>
 <li>
 <blockquote>
 <p>賁E��主義の批判老E�E多くに対して私が抱ぁE��ぁE��ぁE��だちは、つまりこぁE��ぁE��とだ。褁E��な経済を絁E��化するための実現可能な選択肢を人、E��提示して、その中から�E�つ選ばせるとしたら、大多数の人は、少し迷った後で、E��刁E��規制された市場経済と寛大な福祉国家の絁E��合わせを選択するだろう。すると、賁E��主義に手をつけるつもりがなぁE�Eなら、賁E��主義を威勢よく批判することになん�E意味がある�Eだろう�E�　それは無意味な不満の表明にしか見えなぁE��より�E体的に言え�E、それ�E<strong>「ぼめE���E�Evetching�E�、E/strong>に見える�Eだ�E�「ぼめE���E�Evetch�E�」とは、イチE��チE��ュ語に起源を持つ英単語で、「�E痴を言ぁE��と」、「いつも何かに不満を述べてぁE��人のこと」と定義される）、E/p>
-<p>こ�EちめE��とした用語法�E工夫によって、私�E抱えてぁE��問題がすっきり解決されることに気がつぁE��。批判とぼめE��を区別すれば、近年の政治経済学�E�より一般に「批判皁E��究」）�E斁E��の多くに対して私が抱ぁE��ぁE��ぁE��だちを、手っ取り早く伝えることができる。つまり、こぁE��た文献のほとんどは不満の羁E�EでしかなぁE�Eだ、Espan style="text-decoration: underline;">問題�E、こぁE��た不満が間違ってぁE��ことではなぁE��こぁE��た不満を�Eて足し合わせても、それらが対処可能であると示す努力がなされてぁE��ぁE��上、いかなる実践にも繋がらなぁE��ぁE��ことだ。つまり、こぁE��た議論�E体が、単なるぼめE��でしかなぁE�Eだ。私�E見解では、批判とは、何にでも貼り付けられるラベルなどではなく、目持E��べき目標である。 </span></p>
+<p>こ�EちめE��とした用語法�E工夫によって、私�E抱えてぁE��問題がすっきり解決されることに気がつぁE��。批判とぼめE��を区別すれば、近年の政治経済学�E�より一般に「批判皁E��究」）�E斁E��の多くに対して私が抱ぁE��ぁE��ぁE��だちを、手っ取り早く伝えることができる。つまり、こぁE��た文献のほとんどは不満の羁E�EでしかなぁE�Eだ、Espan style="
+text-decoration: underline;">問題�E、こぁE��た不満が間違ってぁE��ことではなぁE��こぁE��た不満を�Eて足し合わせても、それらが対処可能であると示す努力がなされてぁE��ぁE��上、いかなる実践にも繋がらなぁE��ぁE��ことだ。つまり、こぁE��た議論�E体が、単なるぼめE��でしかなぁE�Eだ。私�E見解では、批判とは、何にでも貼り付けられるラベルなどではなく、目持E��べき目標である。 </span></p>
 </blockquote>
 </li>
 </ul>
-<p>Heath, J. (2025). Hussain on the Market: Critique or Kvetch?. <em>Canadian Journal of Philosophy</em>, 1-17. https://doi.org/10.1017/can.2025.10034</p>
+<p>Heath, J. (2025). Hussain on the 
+Market: Critique or Kvetch?. <em>Canadian Journal of Philosophy</em>, 1-17. https://doi.org/10.1017/can.2025.10034</p>
 <p>---</p>
-<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fstatmodeling.stat.columbia.edu%2F2024%2F10%2F01%2Fwb%2F" title="Wendy Brown: “Just as nothing is more corrosive to serious intellectual work than being governed by a political programme (whether that of states, corporations, or a revolutionary movement), nothing is more inapt to a political campaign than the unending reflexivity, critique and self-correction required of scholarly inquiry. E| Statistical Modeling, Causal Inference, and Social Science" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://statmodeling.stat.columbia.edu/2024/10/01/wb/">statmodeling.stat.columbia.edu</a></cite></p>
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fstatmodeling.stat.columbia.edu%2F2024%2F10%2F01%2Fwb%2F" title="Wendy 
+Brown: “Just as nothing is more corrosive to serious intellectual work than being governed by a political programme (whether that of states, corporations, or a revolutionary movement), nothing is more inapt to a political campaign than the unending reflexivity, critique and self-correction required of scholarly inquiry. E| Statistical Modeling, Causal Inference, and Social Science" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
+display: block; 
+width: 100%; 
+height: 155px; 
+max-width: 500px; 
+margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://statmodeling.stat.columbia.edu/2024/10/01/wb/">statmodeling.stat.columbia.edu</a></cite></p>
 <blockquote>
 <p>Just as nothing is more corrosive to serious intellectual work than being governed by a political programme (whether that of states, corporations, or a revolutionary movement), nothing is more inapt to a political campaign than the unending reflexivity, critique and self-correction required of scholarly inquiry.</p>
 </blockquote>

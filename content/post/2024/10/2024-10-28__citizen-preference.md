@@ -1,4 +1,5 @@
 ---
+
 title: /citizen-preference
 published: 2024-10-28
 updated: 2024-12-19T11:00:01+09:00
@@ -8,7 +9,6 @@ author: Nisaki
 edited: 2024-12-19T11:00:01+09:00
 draft: true
 ---
-
 <p>Wüest, R., Helfer, L., and Varone, F. (2024). Shared Class, Shared Opinion? Policy Preference Congruence Between Citizens and Legislators. Swiss Political Science Review.<br /><a href="https://doi.org/10.1111/spsr.12637" target="_blank">https://doi.org/10.1111/spsr.12637</a></p>
 <blockquote>
 <p>最近�E研究では、�E進民主主義国の政策立案老E��政策結果は、裕福でなぁE��民や労働老E��級�E選好に偏ってぁE��ことが示されてぁE��、Eこ�Eような実質皁E��代表の不平等�E琁E��の一つは、ほとんどの政策立案老E�E身が裕福であることかもしれなぁE��E本論文では、議員と市民�E政策選好の一致に、E��層皁E��景の共有が及ぼす影響を探る、Eそ�Eために、スイスの市民と現役議員を対象に実施した調査のオリジナルチE�Eタを用ぁE��、E社会階層間で意見�E違いが見られる6つの経済�E福祉政策案に焦点を当てた、E議員の意見と市民�E意見を一対多�E関係でマッチングさせると、少なくともいくつか�E政策提案につぁE��は、富裕層よりも低所得層の方が社会階層がより重要であることがわかる、E/p>
@@ -30,11 +30,13 @@ draft: true
 <blockquote>
 <p>生殖労働�E価値の低さ、そしてそれに関連する「ケアの危機」�E、しばし�E仕事に対するジェンダー化された態度に起因してぁE��、E本稿は、この説明を1970年代に試みられた�Eルクス主義とフェミニズムのイチE��ロギー琁E���E統合にまで遡り、現代の労働理論と "新しいイチE��ロギー批判" の双方に示唁E��与える�E感的な批判を提供する、E無賁E��働�E家事労働に関するフェミニスト�E析におけるイチE��ロギーの説明的役割を�E構築し、私が "帰化テーゼ" と呼ぶも�Eによって、より庁E��E�� "再生産労僁E"の琁E��におけるイチE��ロギーの取り込みを追跡する、Eこれら�E刁E��が影響力を持つ一方で、ジェンダー抑圧めE��殖労働�E価値の低さにつぁE��説得力のある説明をしてぁE��ぁE��とを示す、E後老E��つぁE��は、労働過程と賁E��蓁E���Eパターンに根ざした別の説明を提示し、イチE��ロギー批判を政治経済学批判と再統合することを主張する、E/p>
 </blockquote>
-<p>Vittori, D., Rojon, S., &amp; Pilet, J. B. (2024). Beyond parliamentarism: How do citizens want to decide on divisive policies?. Comparative European Politics, 1-31.<br /><a href="https://doi.org/10.1057/s41295-024-00379-3" target="_blank">https://doi.org/10.1057/s41295-024-00379-3</a></p>
+<p>Vittori, D., Rojon, S., &amp; Pilet, J. B. (2024). Beyond 
+parliamentarism: How do citizens want to decide on divisive policies?. Comparative European Politics, 1-31.<br /><a href="https://doi.org/10.1057/s41295-024-00379-3" target="_blank">https://doi.org/10.1057/s41295-024-00379-3</a></p>
 <blockquote>
 <p>欧州�E人、E�E平坁E��て、代表機関に対して不信感を抱ぁE��ぁE��、Eここ数十年、政治制度に対する信頼を回復するために、いくつか�E国が代替皁E��意思決定�Eロセスを導�Eしてきた、E斁E��では、直接民主制めE��クノクラシーなど、こぁE��た代替案に対する選好とそ�E俁E��要因につぁE��刁E��されてきた、Eしかし、これらの刁E��は、市民が意思決定�Eロセスにおいて褁E��のアクターを含むより褁E��な選好を持ってぁE��可能性を老E�Eすることなく、これらの選好を単独で扱ぁE��とが多い、Eわれわれは、この褁E��性が存在するかどぁE��を、イタリアにおける�E裂政策に関する2つの異なるビネットに市民をさらすとぁE��新しい調査実験で検証した、Eそ�E結果、イタリアの市民�E何よりも、国民投票では仲間だけで決めることを好むことがわかった、Eしかし、議会�E決定前に専門家に相諁E��ることも好んでぁE��、Eさらに、意思決定�Eロセスの公正さを評価する上で、E��具性は依然として重要であるが、特定�E意思決定�Eロセスは、特定�Eグループ�E勝老E��同様に、政策結果の敗老E��満足させることを実証してぁE��、Eこれら�E知見�E、市民�E政策評価にとって重要な意味を持ち、意思決定�Eロセスが政策に対する全体的な満足度に影響を与える可能性があることを強調してぁE��、E/p>
 </blockquote>
-<p>Lesschaeve, C. (2022). Bringing representatives back in: How political parties moderate patterns of inequality in opinion representation. European Political Science, 21(2), 255-273.<br />https://doi.org/10.1057/s41304-021-00332-y</p>
+<p>Lesschaeve, C. (2022). Bringing representatives back 
+in: How political parties moderate patterns of inequality in opinion representation. European Political Science, 21(2), 255-273.<br />https://doi.org/10.1057/s41304-021-00332-y</p>
 <blockquote>
 <p>民主主義琁E��では、個人の政策選好は政治において平等に代表されるべきであると主張する、Eしかし、意見�E一致に関する研究では、政党�E意見�E高所得�E高学歴の市民�E意見と一致する可能性が高いことがしばし�E発見されてぁE��、Eわれわれは、この結論�E政党間の異質性を老E�EしてぁE��ぁE��主張する、Eベルギー国氁E,700人以上とベルギー政允E1党�E120以上�E政策に関する立場を含む統合データセチE��に基づき、特権階級と恵まれなぁE��、E�E間�E意見一致の不平等が政党間でどのように異なるかを検証する、Eそ�E結果、左派政党�E経済問題で特権階級市民よりも恵まれなぁE��民と協調し、右派政党�Eそ�E送E��あることがわかった、Eしかし、文化的な問題に関しては、左派政党も右派政党も特権階級�E人、E�E嗜好をよりよく表してぁE��、E例外�E急進右派政党Vlaams Belangで、文化的側面では恵まれなぁE��権老E�E意見をよりよく表してぁE��、E/p>
 </blockquote>
@@ -46,7 +48,8 @@ draft: true
 <blockquote>
 <p>左右の尺度は共通�E空間であり、政治皁E��ミュニケーションを俁E��する共同基準であると庁E��想定されてぁE��、E左右の尺度における政党�E位置に関する有権老E�E認識を雁E��E��ることは、投票行動モチE��の検証、有権老E��エリート�E一致の評価、政党シスチE��の変化の研究など、学老E��よって庁E��利用されてぁE��、E驚くべきことに、これらのモチE��は、有権老E��左右の尺度における政党�E序�Eを�E同で琁E��してぁE��とぁE��長年の仮定に基づぁE��ぁE��が、この仮定�E体系皁E��検証されてぁE��ぁE��E本稿では、�E通空間�E形式的な要求である「個人の他律性」と「集団の他律性」につぁE��、形式的なチE��トと確玁E��的なチE��トを紹介する、EドイチE��E983-2021年�E�、イギリス�E�E997-2019年�E�、オランダ�E�E981-2021年�E�における選挙調査チE�Eタ�E�ESESの36カ国�E��Eクロスナショナル刁E��と縦断皁E�E析により、左右の次允E��これら�E要求を満たすかどぁE��を検証する、Eそ�E結果は厳しいも�Eだった、E特定�E状況下を除き、左右の尺度が有権老E�E間で共通�E尺度であるとぁE��解釈に重大な疑問を投げかけるも�Eである、E私たちは、これらの発見が持つ庁E��E��意味につぁE��論じる、E/p>
 </blockquote>
-<p>Bernatskyi, B. (2024). Why and when democracies ban political parties: a classification of democratic state orientations to party bans. Comparative European Politics, 1-38.<br />https://doi.org/10.1057/s41295-024-00381-9</p>
+<p>Bernatskyi, B. (2024). Why and when democracies ban political 
+parties: a classification of democratic state orientations to party bans. Comparative European Politics, 1-38.<br />https://doi.org/10.1057/s41295-024-00381-9</p>
 <blockquote>
 <p>民主主義を守るためには、E��民主皁E��手段が忁E��である。最も急進皁E��手段のひとつが、政党�E禁止である、E政党�E機�Eは、健全で多�E皁E��民主主義国家の基本である、Eしたがって、政党が政治プロセスから排除されることは、民主主義社会にとって深刻なジレンマを引き起こす。民主主義社会�E、政治皁E��争相手がなぜ、そしてぁE��、政治の舞台から合法的に追ぁE�Eされる�Eか、十刁E��対処しなければならなぁE��E後老E�E、極右政党�E台頭めE��民主主義国の国冁E��治競争に権威主義老E��入り込もうとする試みのために、決定的に重要である、E政党�E禁止に関する裁判における各国の裁判所のアプローチ�E、一様とは言ぁE��ぁE��Eスペイン、ウクライナ、イギリス、そして最終的にはドイチE��の経験�E、政治琁E��や禁止の法的根拠に関して大きな対照を示してぁE��、E民主主義は汎ヨーロチE��皁E��斁E��における普遍的な価値であるが、裁判所は民主主義を守るために異なる許容限度を設定してぁE��、E本稿は、民主主義国家が政党を禁止する琁E��とタイミングを説明する新しいパラダイムを提供する、E政党禁止に対する民主主義国家の方向性を、�E由主義皁E��制度皁E��E��激主義皁E��モチE��に刁E��し、一方で個人の権利と他方で民主主義社会�E利益とのバランスを見�Eすことをめぐる異なる概念を示してぁE��、E/p>
 </blockquote>
@@ -54,11 +57,13 @@ draft: true
 <blockquote>
 <p>リベラル・チE��クラシーは、E��リベラル・チE��クラシー政党！ELDP�E�によって挑戦されてぁE��、E民主主義を守る」ため�E斁E��では、NLDPに対抗するためにどのような法的、文化的、社会経済的、政治皁E��置が正しいかが議論されてぁE��、E本稿では、排除、協調、政策的共同採択とぁE��た政治皁E��置に焦点を当てるが、これらは他�E措置とは対照皁E��、国家による強制に頼らず、主流政党�E政治皁E��間に対する自発皁E��反応に頼るものであるため、特に有望であると思われる、Eそれでも、協調と共闘�E、�E由民主主義の基本原則との妥協を伴ぁE��もしれなぁE��Eそこで本稿では、妥協�E倫琁E��基づき、主流政党が自由民主主義の原則を守るために妥協に踏み刁E��ことがどの程度許され、また義務なのかを問う、E自民�Eが野党である場合と、�E民�Eが政権にあり、それぞれ�E由民主主義制度を変えてぁE���E�変えてぁE��ぁE��合�E3つのシナリオを検討する、E後老E��対する脁E��が大きいほど妥協�E余地は大きいが、妥協�E許容性には妥協�E効果に関する確実性が不可欠であることを論じる、E確実性が欠けてぁE��場合、妥協を行うことに伴ぁE��義皁E��失と責任のため、政治皁E��置のチE��ォルト�E排除であるべきである、E/p>
 </blockquote>
-<p>Bourne, A. K. (2018). Militant Democracy and the Banning of Political Parties in Democratic States: Why Some Do and Why Some Don’t. Militant Democracy–Political Science, Law and Philosophy, 23-46.<br />https://doi.org/10.1007/978-3-319-97004-2_2</p>
+<p>Bourne, A. K. (2018). Militant Democracy and the Banning of Political Parties in Democratic 
+States: Why Some Do and Why Some Don’t. Militant Democracy–Political Science, Law and Philosophy, 23-46.<br />https://doi.org/10.1007/978-3-319-97004-2_2</p>
 <blockquote>
 <p>本章では、政党禁止を事例に、戦闘的民主主義の現代皁E��践を検証する、E政党禁止は、反体制皁E��政党や運動に対して展開される最も過激で、不寛容で、抑圧皁E��手段であり、民主主義の質への影響とぁE��点で最もリスクが高いと見なされる傾向があるため、この焦点は適刁E��ある、E本章では、戦後ヨーロチE��における政党禁止の事例を概観した後、なぜ政党を禁止した民主主義国家がある一方で、禁止しなかった民主主義国家がある�EかにつぁE��の説明を評価する、Eより具体的には、新民主主義国家の特徴皁E��経験、暴力に対する政党�E方向性、権威主義の歴史皁E��験、政党禁止に代わる選択肢の有効性、安�E保障化言説の役割、民主主義競争�E力学に焦点を当ててぁE��、Eこ�Eような政党禁止慣行�E説明に焦点を当てることの利点は、政党禁止の公式な根拠を越えて、政治皁E��脈、意思決定ルール、政治皁E��説、行為老E�E利害関係�E絁E��合わせ�Eばらつきが、最終的に政治権力と公共圏�E両方へのアクセスを制限する重大な決定にどのように影響するかを琁E��することができる点にある、E/p>
 </blockquote>
-<p>Kovács, K. (2020). Parliamentary Democracy by Default: Applying the European Convention on Human Rights to Presidential Elections and Referendums. Jus Cogens, 2(3), 237-258.<br />https://doi.org/10.1007/s42439-020-00028-9</p>
+<p>Kovács, K. (2020). Parliamentary Democracy by 
+Default: Applying the European Convention on Human Rights to Presidential Elections and Referendums. Jus Cogens, 2(3), 237-258.<br />https://doi.org/10.1007/s42439-020-00028-9</p>
 <blockquote>
 <p>本稿は、条紁E�E「民主主義条頁E��、すなわち自由選挙�E権利を規定する第1議定書第3条に関するも�Eである、Eなぜ「民主主義条頁E��と呼ばれなければならなぁE�Eか、そしてそ�E今日皁E��義は何なのか、E本稿では、まず起草�E経緯から、起草老E��ちが受け継がれてきた国冁E��度を守ることに熱忁E��あった一方で、民主主義を俁E��することも重要だと老E��てぁE��ことを�Eらかにする、E条紁E�E民主主義につぁE��言及してぁE��が、定義してぁE��わけではなぁE��Eそ�E意味を解明する�Eは裁判所の権限である、E裁判所は、多�E主義民主主義が条紁E��適合する唯一の制度であるとしてぁE��、E本稿では、第1議定書第3条がさらに代議制議会を前提としてぁE��ことを論じる、E議定書第3条は、加盟国に特定�E選挙制度めE��表制の導�Eを義務付けてはぁE��ぁE��、議会制民主主義に準拠することを義務付けてぁE��、Eこ�Eように、裁判所の民主主義モチE��は、多�E主義と議会制民主主義とぁE��2つの柱から成り立ってぁE��、Eそれは多�E主義皁E��民主主義の琁E��に賛同するも�Eであるが、カール・シュミットが支持した一枚岩の概念とは矛盾するも�Eである、E裁判所のモチE��は、民主主義につぁE��確固とした説明を提供する可能性を秘めてぁE��、Eしかし、第1議定書第3条はそ�E潜在皁E��可能性を発揮したことはなぁE��E裁判所の関連法理は、特定�E加盟国で進行してぁE��現代の反民主主義皁E��フトに対処するには不十刁E��ある、Eそこで本稿では、この条頁E��適用する裁判所の権限�E、総選挙に限定されるも�Eではなく、大統領選挙や国民投票にも及ぶことを提案する、E/p>
 </blockquote>

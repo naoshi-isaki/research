@@ -1,4 +1,5 @@
 ---
+
 title: /environment
 published: 2025-10-29
 updated: 2025-10-29T22:59:20+09:00
@@ -8,9 +9,14 @@ author: Nisaki
 edited: 2025-10-29T22:59:20+09:00
 draft: true
 ---
-
-<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.nikkei.com%2Farticle%2FDGXZQOGN160190W5A011C2000000%2F" title="米民主党、それでも降ろさぬ気候変動の旗　Z世代獲得へ�E�急が�E回れ�E� - 日本経済新聁E class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://www.nikkei.com/article/DGXZQOGN160190W5A011C2000000/">www.nikkei.com</a></cite></p>
-<p>Hilmar, T. (2025). Cassandra from the far right: how the German and Austrian populist radical right links climate skepticism with economic issues. Environmental Politics, 1-30.<br />https://doi.org/10.1080/09644016.2025.2560188</p>
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.nikkei.com%2Farticle%2FDGXZQOGN160190W5A011C2000000%2F" title="米民主党、それでも降ろさぬ気候変動の旗　Z世代獲得へ�E�急が�E回れ�E� - 日本経済新聁E class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
+display: block; 
+width: 100%; 
+height: 155px; 
+max-width: 500px; 
+margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://www.nikkei.com/article/DGXZQOGN160190W5A011C2000000/">www.nikkei.com</a></cite></p>
+<p>Hilmar, T. (2025). Cassandra from the far 
+right: how the German and Austrian populist radical right links climate skepticism with economic issues. Environmental Politics, 1-30.<br />https://doi.org/10.1080/09644016.2025.2560188</p>
 <blockquote>
 <p>本稿は、ドイチE�EAfDとオーストリアのFPÖとぁE��二つのポピュリスト的急進右派政党が、Twitter/X上で気候変動につぁE��どのように発信してぁE��かを問う、E,254件のチE��ートコーパスを�E析し、これらの主体による気候変動コミュニケーションにおいて比輁E��研究が進んでぁE��ぁE�E面、すなわち彼らが気候変動に関する言説の中で経済を参�Eする方法——私が「経済的意味付け」と呼ぶも�E——に特に注目する。彼らが推進する四つのナラチE��ブを区別する�E�気候政策�E経済�E体を脁E��す、特定�E「正当な」グループに不当な負拁E��強ぁE��、気候活動家は隠れた経済的意図を追求する、誤った前提に基づぁE��行動し経済的能力を欠く。反応的懐疑主義と過程的懐疑主義を絁E��合わせることで、これらのナラチE��ブ�Eより庁E��E��社会秩序�Eビジョンを屈折させ、気候議論における「理性の声」としての自己提示を可能にする。経済的意味付けにより、極右勢力�E「現実主義皁E��な警告モードで発言し、主流派政党�E経済的「非合理性」を糾弾する立場を確立する、E/p>
 </blockquote>

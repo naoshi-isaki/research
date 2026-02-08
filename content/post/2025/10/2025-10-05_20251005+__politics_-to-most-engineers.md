@@ -1,4 +1,5 @@
 ---
+
 title: 20251005+/"politics"-to-most-engineers
 published: 2025-10-05
 updated: 2025-10-05T23:07:42+09:00
@@ -7,8 +8,12 @@ entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-68028885652
 author: Nisaki
 edited: 2025-11-29T22:29:23+09:00
 ---
-
-<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fterriblesoftware.org%2F2025%2F10%2F01%2Fstop-avoiding-politics%2F" title="Stop Avoiding Politics" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/">terriblesoftware.org</a></cite></p>
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fterriblesoftware.org%2F2025%2F10%2F01%2Fstop-avoiding-politics%2F" title="Stop Avoiding Politics" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
+display: block; 
+width: 100%; 
+height: 155px; 
+max-width: 500px; 
+margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/">terriblesoftware.org</a></cite></p>
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="ja">
 <p dir="ltr" lang="ja">社冁E��治を避けてはならなぁE��とぁE��記事。良かった、Ebr /><br />・多くのエンジニアは、�E場の「政治」とぁE��言葉に顔をしかめる<br />・「本物」�Eエンジニアはコードに雁E��すべきで、政治は無関係だと信じられてぁE��<br />・筁E��E��かつては同じように老E��、政治を嫌うことを誁E��に思ってぁE��…</p>
  Eiwashi / Yoshimasa Iwase (@iwashi86) <a href="https://twitter.com/iwashi86/status/1973904278181044550?ref_src=twsrc%5Etfw">2025年10朁E日</a></blockquote>
@@ -41,4 +46,9 @@ edited: 2025-11-29T22:29:23+09:00
 <p>政治を趁E��た�EりをするのはめE��よう。そんなことはなぁE��誰もそぁE��はなぁE��唯一の問題�E、あなたがそれを得意とするか、すでに得意な人たちに負け続けるかだ、E/p>
 </blockquote>
 <p>---</p>
-<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fbookplus.nikkei.com%2Fatcl%2Fcatalog%2F25%2F10%2F22%2F02275%2F" title="�E�E1/17新刊＞『社冁E��治の科学、E class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://bookplus.nikkei.com/atcl/catalog/25/10/22/02275/">bookplus.nikkei.com</a></cite></p>
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fbookplus.nikkei.com%2Fatcl%2Fcatalog%2F25%2F10%2F22%2F02275%2F" title="�E�E1/17新刊＞『社冁E��治の科学、E class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
+display: block; 
+width: 100%; 
+height: 155px; 
+max-width: 500px; 
+margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://bookplus.nikkei.com/atcl/catalog/25/10/22/02275/">bookplus.nikkei.com</a></cite></p>

@@ -1,4 +1,5 @@
 ---
+
 title: /democracy
 published: 2024-10-30
 updated: 2024-10-31T10:06:49+09:00
@@ -8,8 +9,12 @@ author: Nisaki
 edited: 2024-10-31T10:06:49+09:00
 draft: true
 ---
-
-<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fnote.com%2Fshintoyo%2Fn%2Fn0e7550f53299" title="「民主主義�E�デモクラシー�E�」�E定義につぁE���E�shintoyo" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://note.com/shintoyo/n/n0e7550f53299">note.com</a></cite></p>
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fnote.com%2Fshintoyo%2Fn%2Fn0e7550f53299" title="「民主主義�E�デモクラシー�E�」�E定義につぁE���E�shintoyo" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
+display: block; 
+width: 100%; 
+height: 155px; 
+max-width: 500px; 
+margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://note.com/shintoyo/n/n0e7550f53299">note.com</a></cite></p>
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="ja">
 <p dir="ltr" lang="ja">チE��クラシー概念につぁE��少し話題になってぁE��ようなので、�E掲させてぁE��だきます、E<a href="https://t.co/n5bjZunG00">https://t.co/n5bjZunG00</a></p>
  E山口晁E�� (@Akito_Yamaguchi) <a href="https://twitter.com/Akito_Yamaguchi/status/1851235713964015644?ref_src=twsrc%5Etfw">2024年10朁E9日</a></blockquote>

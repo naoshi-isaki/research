@@ -1,4 +1,5 @@
 ---
+
 title: /presidential
 published: 2024-09-26
 updated: 2024-09-27T13:14:11+09:00
@@ -8,7 +9,7 @@ author: Nisaki
 edited: 2024-09-27T13:14:11+09:00
 draft: true
 ---
-
-<p>Couto, L. (2024). Government formation in presidentialism: Disentangling the combined effects of pre-electoral coalitions and legislative polarization. Latin American Politics and Society, 1 E0. doi:10.1017/lap.2024.30</p>
+<p>Couto, L. (2024). Government formation in 
+presidentialism: Disentangling the combined effects of pre-electoral coalitions and legislative polarization. Latin American Politics and Society, 1 E0. doi:10.1017/lap.2024.30</p>
 <p> </p>
 <p> </p>

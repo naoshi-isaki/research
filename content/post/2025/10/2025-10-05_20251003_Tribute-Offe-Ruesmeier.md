@@ -1,4 +1,5 @@
 ---
+
 title: 20251003/Tribute-Offe-Ruesmeier
 published: 2025-10-05
 updated: 2025-10-05T23:12:26+09:00
@@ -7,9 +8,11 @@ entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-68028885652
 author: Nisaki
 edited: 2025-10-05T23:12:55+09:00
 ---
-
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="ja">
-<p dir="ltr" lang="en">Claus Offe<br /><br />These are some works that will give you a sense of what kind of a thinker Offe was.<br /><br />Contradictions of the Welfare State: <a href="https://t.co/9SOiyVZtC0">https://t.co/9SOiyVZtC0</a><br /><br />Two Logics: <a href="https://t.co/Lo8hdru7vt">https://t.co/Lo8hdru7vt</a><br /><br />New Social Movements: <a href="https://t.co/ZZWk7bTPAj">https://t.co/ZZWk7bTPAj</a> <a href="https://t.co/EQjyKpc7uj">https://t.co/EQjyKpc7uj</a> <a href="https://t.co/x27YLbGMz6">pic.twitter.com/x27YLbGMz6</a></p>
+<p dir="ltr" lang="en">Claus Offe<br /><br />These are some works that will give you a sense of what kind of a thinker Offe was.<br /><br />Contradictions of the Welfare 
+State: <a href="https://t.co/9SOiyVZtC0">https://t.co/9SOiyVZtC0</a><br /><br />Two 
+Logics: <a href="https://t.co/Lo8hdru7vt">https://t.co/Lo8hdru7vt</a><br /><br />New Social 
+Movements: <a href="https://t.co/ZZWk7bTPAj">https://t.co/ZZWk7bTPAj</a> <a href="https://t.co/EQjyKpc7uj">https://t.co/EQjyKpc7uj</a> <a href="https://t.co/x27YLbGMz6">pic.twitter.com/x27YLbGMz6</a></p>
  EGerardo L. Munck (@GerardoMunck) <a href="https://twitter.com/GerardoMunck/status/1974153970030686240?ref_src=twsrc%5Etfw">2025年10朁E日</a></blockquote>
 <p>
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -18,13 +21,15 @@ edited: 2025-10-05T23:12:55+09:00
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="ja">
-<p dir="ltr" lang="en">RIP Claus Offe, the author of all below, but for me especially scholar who highligted the difficulty of simultanous democratization, economic transition and state-building after communism in Institutional Design in Post-Communist Societies: Rebuilding the Ship at Sea <a href="https://t.co/2vBzP8SU9i">https://t.co/2vBzP8SU9i</a></p>
+<p dir="ltr" lang="en">RIP Claus Offe, the author of all below, but for me especially scholar who highligted the difficulty of simultanous democratization, economic transition and state-building after communism in Institutional Design in Post-Communist 
+Societies: Rebuilding the Ship at Sea <a href="https://t.co/2vBzP8SU9i">https://t.co/2vBzP8SU9i</a></p>
  EPetra Guasti (@PetraGuasti) <a href="https://twitter.com/PetraGuasti/status/1974108984576782540?ref_src=twsrc%5Etfw">2025年10朁E日</a></blockquote>
 <p>
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="ja">
-<p dir="ltr" lang="en">sad news: vale my friend and colleague Claus Offe (1940 - 2025), among the finest political sociologists of our generation, who generously trusted me to translate and edit his early work… <a href="https://t.co/z2Cvd9b8ML">pic.twitter.com/z2Cvd9b8ML</a></p>
+<p dir="ltr" lang="en">sad 
+news: vale my friend and colleague Claus Offe (1940 - 2025), among the finest political sociologists of our generation, who generously trusted me to translate and edit his early work… <a href="https://t.co/z2Cvd9b8ML">pic.twitter.com/z2Cvd9b8ML</a></p>
  EJohn Keane (@jkeaneSDN) <a href="https://twitter.com/jkeaneSDN/status/1974091159116095921?ref_src=twsrc%5Etfw">2025年10朁E日</a></blockquote>
 <p>
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

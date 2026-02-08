@@ -1,4 +1,5 @@
 ---
+
 title: 20241024/Austria/Mudde-Greilinger
 published: 2024-10-24
 updated: 2024-10-24T15:41:13+09:00
@@ -7,13 +8,24 @@ entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-68024183982
 author: Nisaki
 edited: 2024-10-24T15:41:13+09:00
 ---
-
-<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.theguardian.com%2Fcommentisfree%2F2024%2Foct%2F22%2Feurope-far-right-austria-herbert-kickl-fpo-centre-right" title="Europe’s far right will look at Austria and say: this is how we do it | Cas Mudde and Gabriela Greilinger" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://www.theguardian.com/commentisfree/2024/oct/22/europe-far-right-austria-herbert-kickl-fpo-centre-right">www.theguardian.com</a></cite></p>
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.theguardian.com%2Fcommentisfree%2F2024%2Foct%2F22%2Feurope-far-right-austria-herbert-kickl-fpo-centre-right" title="Europe’s far right will look at Austria and 
+say: this is how we do it | Cas Mudde and Gabriela Greilinger" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
+display: block; 
+width: 100%; 
+height: 155px; 
+max-width: 500px; 
+margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://www.theguardian.com/commentisfree/2024/oct/22/europe-far-right-austria-herbert-kickl-fpo-centre-right">www.theguardian.com</a></cite></p>
 <ul>
 <li>
 <blockquote> As such, Austria is a perfect example of the dangerous shortsightedness of normalising far-right parties  Ea process led in the 21st century by, above all, conservative parties.
 <p>It started as a way to strengthen its own power, but the ÖVP’s embrace of the FPÁEand the latter’s repeated inclusion in national government helped make far-right policy positions mainstream, which in turn made the far right more acceptable to the general public  Eperhaps ultimately helping it win September’s elections. Because if the mainstream already parrots the far right, then why not just vote for the “real thing Einstead? People prefer the original over the copy, as the far-right French politician Jean-Marie Le Pen once said, and as research confirms.</p>
-<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2Fcommentisfree%2F2022%2Fapr%2F13%2Fcopying-far-right-doesnt-help-mainstream-parties" title="Copying the far right doesn’t help mainstream parties. But it can boost the far right | Werner Krause, Denis Cohen and Tarik Abou-Chadi" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://www.theguardian.com/world/commentisfree/2022/apr/13/copying-far-right-doesnt-help-mainstream-parties">www.theguardian.com</a><span style="font-size: 16px;"> </span></cite></p>
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2Fcommentisfree%2F2022%2Fapr%2F13%2Fcopying-far-right-doesnt-help-mainstream-parties" title="Copying the far right doesn’t help mainstream parties. But it can boost the far right | Werner Krause, Denis Cohen and Tarik Abou-Chadi" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
+display: block; 
+width: 100%; 
+height: 155px; 
+max-width: 500px; 
+margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://www.theguardian.com/world/commentisfree/2022/apr/13/copying-far-right-doesnt-help-mainstream-parties">www.theguardian.com</a><span style="
+font-size: 16px;"> </span></cite></p>
 </blockquote>
 </li>
 <li>
@@ -28,7 +40,8 @@ edited: 2024-10-24T15:41:13+09:00
 </li>
 <li>
 <blockquote>
-<p>Although the ÖVP was the only mainstream party that had not categorically ruled out governing with the FPÁEbefore the election, it did declare its leader, Kickl, persona non grata. While the ÖVP leader, Karl Nehammer, still holds on to this odd separation  Eas though Kickl is somehow exceptional  Ehe is already at odds with almost half of his voters. <span style="text-decoration: underline;">Moreover, Kickl was the minister for the interior in the previous ÖVP-FPÁEgovernment.</span></p>
+<p>Although the ÖVP was the only mainstream party that had not categorically ruled out governing with the FPÁEbefore the election, it did declare its leader, Kickl, persona non grata. While the ÖVP leader, Karl Nehammer, still holds on to this odd separation  Eas though Kickl is somehow exceptional  Ehe is already at odds with almost half of his voters. <span style="
+text-decoration: underline;">Moreover, Kickl was the minister for the interior in the previous ÖVP-FPÁEgovernment.</span></p>
 </blockquote>
 </li>
 <li>
@@ -43,5 +56,10 @@ edited: 2024-10-24T15:41:13+09:00
 </li>
 </ul>
 <p>---</p>
-<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.theguardian.com%2Fcommentisfree%2F2024%2Foct%2F08%2Fvienna-far-right-austria-progressives" title="On the streets of Vienna, I saw Austrians Erage at the march of the far right  Ebut also their helplessness | Owen Jones" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://www.theguardian.com/commentisfree/2024/oct/08/vienna-far-right-austria-progressives">www.theguardian.com</a></cite>Owen Jones.</p>
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.theguardian.com%2Fcommentisfree%2F2024%2Foct%2F08%2Fvienna-far-right-austria-progressives" title="On the streets of Vienna, I saw Austrians Erage at the march of the far right  Ebut also their helplessness | Owen Jones" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
+display: block; 
+width: 100%; 
+height: 155px; 
+max-width: 500px; 
+margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://www.theguardian.com/commentisfree/2024/oct/08/vienna-far-right-austria-progressives">www.theguardian.com</a></cite>Owen Jones.</p>
 <p> </p>

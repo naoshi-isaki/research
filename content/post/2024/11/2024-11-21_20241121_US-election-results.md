@@ -1,4 +1,5 @@
 ---
+
 title: 20241121/US-election-results
 published: 2024-11-21
 updated: 2024-11-21T18:57:32+09:00
@@ -9,9 +10,13 @@ edited: 2024-12-07T11:22:27+09:00
 tags:
   - U.S.
 ---
-
 <p><a href="https://www.electionanalysis.ws/us/" target="_blank">https://www.electionanalysis.ws/us/</a></p>
-<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fecon101.jp%2Frealignment-of-the-american-electorate%2F" title="アダム・トゥーズ「トランプによる共和�Eの過激化と、アメリカの有権老E�E再編成」！E024年11朁E1日�E�E class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://econ101.jp/realignment-of-the-american-electorate/">econ101.jp</a></cite></p>
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fecon101.jp%2Frealignment-of-the-american-electorate%2F" title="アダム・トゥーズ「トランプによる共和�Eの過激化と、アメリカの有権老E�E再編成」！E024年11朁E1日�E�E class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
+display: block; 
+width: 100%; 
+height: 155px; 
+max-width: 500px; 
+margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://econ101.jp/realignment-of-the-american-electorate/">econ101.jp</a></cite></p>
 <ul>
 <li>
 <blockquote>
@@ -61,11 +66,18 @@ tags:
 </li>
 </ul>
 <p>---</p>
-<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fnavigatorresearch.org%2F2024-post-election-survey-the-reasons-for-voting-for-trump-and-harris%2F" title="2024 Post-Election Survey: The Reasons for Voting for Trump and Harris - Navigator" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://navigatorresearch.org/2024-post-election-survey-the-reasons-for-voting-for-trump-and-harris/">navigatorresearch.org</a></cite></p>
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fnavigatorresearch.org%2F2024-post-election-survey-the-reasons-for-voting-for-trump-and-harris%2F" title="2024 Post-Election 
+Survey: The Reasons for Voting for Trump and Harris - Navigator" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
+display: block; 
+width: 100%; 
+height: 155px; 
+max-width: 500px; 
+margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://navigatorresearch.org/2024-post-election-survey-the-reasons-for-voting-for-trump-and-harris/">navigatorresearch.org</a></cite></p>
 <p><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/N/Nisaki/20241121/20241121185314.png" width="1200" height="668" loading="lazy" title="" class="hatena-fotolife" itemprop="image" /></p>
 <p><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/N/Nisaki/20241121/20241121185257.png" width="1200" height="660" loading="lazy" title="" class="hatena-fotolife" itemprop="image" /></p>
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="ja">
-<p dir="ltr" lang="en">First (of several) <a href="https://twitter.com/NavigatorSurvey?ref_src=twsrc%5Etfw">@NavigatorSurvey</a> “what happened Ereports is out. The core dynamic: Trump won the 15% of swing voters by 8 points, who disapproved of Biden presidency, said inflation was the top issue, and had far more positive views of Trump’s presidency than Trump the person. <a href="https://t.co/a6SFg2Sc75">pic.twitter.com/a6SFg2Sc75</a></p>
+<p dir="ltr" lang="en">First (of several) <a href="https://twitter.com/NavigatorSurvey?ref_src=twsrc%5Etfw">@NavigatorSurvey</a> “what happened Ereports is out. The core 
+dynamic: Trump won the 15% of swing voters by 8 points, who disapproved of Biden presidency, said inflation was the top issue, and had far more positive views of Trump’s presidency than Trump the person. <a href="https://t.co/a6SFg2Sc75">pic.twitter.com/a6SFg2Sc75</a></p>
  ENick Gourevitch (@nickgourevitch) <a href="https://twitter.com/nickgourevitch/status/1859230106754969900?ref_src=twsrc%5Etfw">2024年11朁E0日</a></blockquote>
 <p>
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -73,8 +85,18 @@ tags:
 <p>
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
-<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fnavigatorresearch.org%2Fthree-in-five-americans-are-favorable-to-the-affordable-care-act%2F" title="Three in Five Americans Are Favorable to the Affordable Care Act - Navigator" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://navigatorresearch.org/three-in-five-americans-are-favorable-to-the-affordable-care-act/">navigatorresearch.org</a></cite></p>
-<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fnavigatorresearch.org%2Fthe-affordable-care-act-remains-widely-favorable%2F" title="The Affordable Care Act Remains Widely Favorable - Navigator" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://navigatorresearch.org/the-affordable-care-act-remains-widely-favorable/">navigatorresearch.org</a></cite></p>
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fnavigatorresearch.org%2Fthree-in-five-americans-are-favorable-to-the-affordable-care-act%2F" title="Three in Five Americans Are Favorable to the Affordable Care Act - Navigator" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
+display: block; 
+width: 100%; 
+height: 155px; 
+max-width: 500px; 
+margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://navigatorresearch.org/three-in-five-americans-are-favorable-to-the-affordable-care-act/">navigatorresearch.org</a></cite></p>
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fnavigatorresearch.org%2Fthe-affordable-care-act-remains-widely-favorable%2F" title="The Affordable Care Act Remains Widely Favorable - Navigator" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
+display: block; 
+width: 100%; 
+height: 155px; 
+max-width: 500px; 
+margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://navigatorresearch.org/the-affordable-care-act-remains-widely-favorable/">navigatorresearch.org</a></cite></p>
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="ja">
 <p dir="ltr" lang="ja">2020年にACAとObamacareへの賛否を問ぁE��アンケート�E結果。同じ医療保険制度だけど、EObamacare"と呼ぶと白人&amp;ヒスパニチE��層、無党派&amp;共和�E支持老E��の好感度が大きく下がる。トランプがACAを”Obamacare”と呼んで批判する戦略がいかに効果的だったかがわかる、Ea href="https://t.co/GnouJa6lVp">https://t.co/GnouJa6lVp</a> <a href="https://t.co/pa4512B1AE">pic.twitter.com/pa4512B1AE</a></p>
  Emuchonov (@muchonov) <a href="https://twitter.com/muchonov/status/1859477654543663563?ref_src=twsrc%5Etfw">2024年11朁E1日</a></blockquote>
@@ -82,5 +104,10 @@ tags:
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
 <p>---</p>
-<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Finsideclimatenews.org%2Fnews%2F19112024%2Fev-mandate-message-may-have-helped-trump-win-michigan%2F" title="Trump’s ‘EV Mandate EMessage May Have Helped Him Win Michigan - Inside Climate News" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://insideclimatenews.org/news/19112024/ev-mandate-message-may-have-helped-trump-win-michigan/">insideclimatenews.org</a></cite></p>
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Finsideclimatenews.org%2Fnews%2F19112024%2Fev-mandate-message-may-have-helped-trump-win-michigan%2F" title="Trump’s ‘EV Mandate EMessage May Have Helped Him Win Michigan - Inside Climate News" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
+display: block; 
+width: 100%; 
+height: 155px; 
+max-width: 500px; 
+margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://insideclimatenews.org/news/19112024/ev-mandate-message-may-have-helped-trump-win-michigan/">insideclimatenews.org</a></cite></p>
 <p> </p>

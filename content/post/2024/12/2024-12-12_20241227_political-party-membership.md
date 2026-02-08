@@ -1,4 +1,5 @@
 ---
+
 title: 20241227/political-party-membership
 published: 2024-12-12
 updated: 2024-12-27T14:04:24+09:00
@@ -11,7 +12,6 @@ tags:
   - political_party
   - grancing_abstracts
 ---
-
 <p>Butzlaff, F. (2024). Creating new participatory linkages? Political parties and democratisation in Germany, Austria, and the UK. Party Politics, 0(0). https://doi.org/10.1177/13540688241306727</p>
 <blockquote>
 <p>近代化と個人化が引き起こす信頼、会員、有権老E�E喪失は、政党研究においてし�Eらく取り上げられてきた、Eしかし、�EチE��、バウマン、セネット、テイラーとぁE��た社会理論�E著老E�E、これまで深く取り上げられてこなかった絁E��上�Eジレンマを持E��してぁE��、E本稿では、異なる既成政党ファミリーがこれらの矛盾をどのように受け止め、新たな政党と社会�E結�Eつきを創造しよぁE��してぁE��のかを比輁E��る、E社会民主主義政党と保守主義政党�E幹部との一連の質皁E��ンタビューに基づき、異なる政党ファミリーめE��の改革の試みが、個人化、柔軟性、流動皁E��アイチE��チE��チE��を異なる形で反映し、その結果、市民と政党や代議制民主主義との結�Eつきを再構築してぁE��ことを強調する、E/p>
@@ -24,11 +24,13 @@ tags:
 <blockquote>
 <p>学老E��ちは、活動家が政治目皁E��インターネットを利用する頻度は、受動的な一般会員よりも高いことを示してきた、Eこれまでの研究によれば、活動家はさまざまなタイプ�E活動を、さまざまなレベルの強度で行ってぁE��、Eしかし、そのような政党活動�E様式が、デジタルリソースのさまざまな利用とどの程度関連してぁE��のか�E不�Eである、E本稿は、政党活動家のさまざまなグループにおいて、情報チE�Eルとして政党ウェブサイトを利用する原動力�E何かを説明することで、既存�E研究に貢献するも�Eである、E2008年から2017年にかけてスペインで開催された�E大会に出席した委任老E�E調査チE�Eタを基に、政党ウェブサイト利用の3つの主要な絁E��的俁E��要因である、�E部活動�E様式、政党事務所の保有、イチE��ロギー皁E��致を検証する、Eそ�E結果、幁E��E��活動に従事し、政党事務所を持ち、政党とのイチE��ロギー皁E��致が高い活動家は、それ以外�E活動家よりも政党ウェブサイトを頻繁に利用する可能性が高いことが確認された、E/p>
 </blockquote>
-<p>Gaio e Silva, J., &amp; Lisi, M. (2024). Populism and democratic attitudes: Comparing populist and non-populist candidates Eviews on democracy and its alternatives. Party Politics, 0(0). https://doi.org/10.1177/13540688241306420</p>
+<p>Gaio e Silva, J., &amp; Lisi, M. (2024). Populism and democratic 
+attitudes: Comparing populist and non-populist candidates Eviews on democracy and its alternatives. Party Politics, 0(0). https://doi.org/10.1177/13540688241306420</p>
 <blockquote>
 <p>新しいチE��タルチE�Eルの出現は政党絁E��に革命をもたらした、Eしかし、包括皁E��琁E��的枠絁E��を活用し、政党�EチE��タル化�E供給側のバリエーションを老E�Eした比輁E��究は、この斁E��にはまだ欠けてぁE��、E本稿では、政党�Eウェブサイトにスポットライトを当てることで、この2つの欠点に対処する、E政党データベ�Eス�E�Eolitical Party Database�E��EチE�Eタを用ぁE��、多様な政党�Eウェブサイト機�Eの決定要因を掘り下げる、Eそ�E結果、指導部が中央雁E��皁E��なく、イチE��ロギー皁E��左派に属する政党ほど、幁E��E��機�Eを備えたウェブサイトを表示する傾向があることが�Eらかになった、Eさらに、若ぁE��党ほど褁E��なウェブサイトを表示する傾向があるが、この効果�E選挙での強さによって軽減されてぁE��、E特筁E��べき�E、ほとんどの政党に共通してぁE��のは、ウェブサイトを人皁E�E賁E��皁E��ソースの動員用に使ってぁE��ことで、双方向的な機�Eはまだあまり普及してぁE��ぁE��E/p>
 </blockquote>
-<p>Gauja, A., Kosiara-Pedersen, K., &amp; Weissenbach, K. (2024). Party membership and affiliation: Realizing party linkage and community in the twenty-first century. Party Politics, 0(0). https://doi.org/10.1177/13540688241306730</p>
+<p>Gauja, A., Kosiara-Pedersen, K., &amp; Weissenbach, K. (2024). Party membership and 
+affiliation: Realizing party linkage and community in the twenty-first century. Party Politics, 0(0). https://doi.org/10.1177/13540688241306730</p>
 <blockquote>
 <p>今世紀に入ってから、新しい�E�タイプ�E�E�政党が出現し、既存�E政党が絁E��を進化させたことで、伝統皁E��党員の老E��方に挑戦し、E��新皁E��党員と所属�E形態が生まれた、Eこうした変化は、政党がどのようにつながりを築き、コミュニティを維持するかに影響を与える、E多くの研究が個、E�E政党における�E員のあり方の変化に焦点をあててぁE��が、こぁE��た変化、つまり何がそ�E変化を俁E��てぁE��のか、そしてそれが政党�E民主皁E���Eにどのような影響を及ぼしてぁE��のかにつぁE��、包括皁E��つ比輁E��に琁E��することは欠けてぁE��、Eわれわれは、こぁE��た現象を調査するための琁E��的・実証皁E��絁E��を確立し、�E員の概念�E��E員が達成すべきこと�E�と、�E員が国家、絁E��としての政党、個人の観点からどのように運用されてぁE��かを区別する、Eわれわれの枠絁E��と実例�E、本特雁E�E寁E��老E��ちによる匁E��皁E��実証刁E��の土台となるものである、E/p>
 </blockquote>

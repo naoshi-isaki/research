@@ -1,4 +1,5 @@
 ---
+
 title: 20251229/Jacobin/Vivek-Chibber
 published: 2025-12-29
 updated: 2025-12-29T13:56:29+09:00
@@ -7,10 +8,15 @@ entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-17179246901
 author: Nisaki
 edited: 2025-12-29T18:40:12+09:00
 ---
-
-<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fjacobin.com%2F2025%2F12%2Freform-revolution-history-social-democracy%2F" title="The Revolutionary Roots of Social Democracy" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://jacobin.com/2025/12/reform-revolution-history-social-democracy/">jacobin.com</a></cite></p>
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fjacobin.com%2F2025%2F12%2Freform-revolution-history-social-democracy%2F" title="The Revolutionary Roots of Social Democracy" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
+display: block; 
+width: 100%; 
+height: 155px; 
+max-width: 500px; 
+margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://jacobin.com/2025/12/reform-revolution-history-social-democracy/">jacobin.com</a></cite></p>
 <blockquote>
-<h1>国家と<span style="text-decoration: line-through;">革命</span>改革</h1>
+<h1>国家と<span style="
+text-decoration: line-through;">革命</span>改革</h1>
 <p><strong>メリチE��・ナシェチE��</strong>　国家につぁE��の話に戻りたぁE��社会民主主義政党�E、国家と賁E��主義の関係につぁE��強ぁE��論を持ってぁE��のだろうか。特に、賁E��主義に変化をもたらすために国家を利用し、また労働老E��級�E社会主義運動を構築する方法としてそ�E変化を利用することに、戦略皁E��重点を置ぁE��ぁE��のだから、E/p>
 <p><strong>ヴィヴェク・チバー</strong>　社会民主主義運動を戦前と戦後に刁E��させなければならなぁE��戦前、つまめE0世紀前半の社会民主主義運動では、ブルジョア国家と、それが進歩皁E��革めE��歩皁E��法�Eチャンスに与える限界につぁE��、E��常に強固な琁E��があったと思う、E/p>
 <p>それは、今日、あるいは1980年代から90年代にかけて、�Eルクス主義老E��現代国家論と呼ばれるも�Eを発展させて以来、学術的なチE��ストに書かれてぁE��ような琁E��ではなかった。しかし、ニコス・プ�Eランザス、ラルフ�Eミリバンド、フレチE��・ブロチE��、クラウス・オチE��ェとぁE��た人、E��よって展開された近代国家琁E���E、E0世紀初頭の社会民主主義政党が行った洞察や主張の上に構築されたも�Eである、E/p>
