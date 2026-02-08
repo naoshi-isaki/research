@@ -1,5 +1,4 @@
 ---
-
 title: 20231216/memo/Dutch-Election
 published: 2023-12-16
 updated: 2023-12-16T08:32:30+09:00

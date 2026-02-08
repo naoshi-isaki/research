@@ -1,5 +1,4 @@
 ---
-
 title: 20241105/Green-policy-and-Election-voting/memo
 published: 2024-11-05
 updated: 2024-11-05T19:05:00+09:00

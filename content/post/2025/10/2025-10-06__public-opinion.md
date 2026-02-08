@@ -1,5 +1,4 @@
 ---
-
 title: /public-opinion
 published: 2025-10-06
 updated: 2025-10-06T12:29:28+09:00

@@ -1,5 +1,4 @@
 ---
-
 title: 20250501/Maestri-of-Political-Science-memo
 published: 2025-05-01
 updated: 2025-05-01T18:01:47+09:00

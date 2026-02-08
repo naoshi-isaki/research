@@ -1,5 +1,4 @@
 ---
-
 title: 20241130/issue-competition/memo
 published: 2024-11-30
 updated: 2024-11-30T20:27:35+09:00

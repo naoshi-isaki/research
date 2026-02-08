@@ -1,5 +1,4 @@
 ---
-
 title: /to-read/memo
 published: 2024-12-16
 updated: 2024-12-16T21:51:22+09:00

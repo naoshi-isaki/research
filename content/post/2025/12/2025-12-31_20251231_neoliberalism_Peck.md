@@ -1,5 +1,4 @@
 ---
-
 title: 20251231/neoliberalism/Peck
 published: 2025-12-31
 updated: 2025-12-31T23:44:58+09:00

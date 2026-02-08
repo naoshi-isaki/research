@@ -1,5 +1,4 @@
 ---
-
 title: 20250501/the-Left-Behind-discourse
 published: 2025-05-01
 updated: 2025-05-01T18:13:55+09:00

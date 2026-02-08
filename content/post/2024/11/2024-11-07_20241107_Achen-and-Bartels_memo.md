@@ -1,5 +1,4 @@
 ---
-
 title: 20241107/Achen-and-Bartels/memo
 published: 2024-11-07
 updated: 2024-11-07T11:24:02+09:00

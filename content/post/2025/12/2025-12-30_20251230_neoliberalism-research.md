@@ -1,5 +1,4 @@
 ---
-
 title: 20251230/neoliberalism-research
 published: 2025-12-30
 updated: 2025-12-30T20:50:12+09:00

@@ -1,5 +1,4 @@
 ---
-
 title: /Greenland
 published: 2025-01-18
 updated: 2025-01-18T01:43:13+09:00

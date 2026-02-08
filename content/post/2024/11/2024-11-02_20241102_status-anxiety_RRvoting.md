@@ -1,5 +1,4 @@
 ---
-
 title: 20241102/status-anxiety_RRvoting
 published: 2024-11-02
 updated: 2024-11-02T12:06:55+09:00

@@ -1,5 +1,4 @@
 ---
-
 title: 20250829/Michael-KoÁEtranslate
 published: 2025-08-29
 updated: 2025-08-29T17:47:56+09:00

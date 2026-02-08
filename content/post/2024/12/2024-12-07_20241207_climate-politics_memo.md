@@ -1,5 +1,4 @@
 ---
-
 title: 20241207/climate-politics/memo
 published: 2024-12-07
 updated: 2024-12-07T08:06:00+09:00

@@ -1,5 +1,4 @@
 ---
-
 title: 20241227/political-party-membership
 published: 2024-12-12
 updated: 2024-12-27T14:04:24+09:00

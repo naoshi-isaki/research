@@ -1,5 +1,4 @@
 ---
-
 title: /British-Politics
 published: 2025-06-19
 updated: 2025-06-19T03:20:35+09:00

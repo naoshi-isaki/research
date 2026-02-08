@@ -1,5 +1,4 @@
 ---
-
 title: /Polarization
 published: 2024-12-13
 updated: 2024-12-13T09:23:05+09:00

@@ -1,5 +1,4 @@
 ---
-
 title: 20250518/the-elite-the-people
 published: 2025-05-18
 updated: 2025-05-18T01:44:10+09:00

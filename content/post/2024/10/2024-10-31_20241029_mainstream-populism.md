@@ -1,5 +1,4 @@
 ---
-
 title: 20241029/mainstream-populism
 published: 2024-10-31
 updated: 2024-10-30T00:00:00+09:00

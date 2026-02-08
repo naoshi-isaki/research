@@ -1,5 +1,4 @@
 ---
-
 title: 20251229/Jacobin/Vivek-Chibber
 published: 2025-12-29
 updated: 2025-12-29T13:56:29+09:00

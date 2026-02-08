@@ -1,5 +1,4 @@
 ---
-
 title: /presidential
 published: 2024-09-26
 updated: 2024-09-27T13:14:11+09:00

@@ -1,5 +1,4 @@
 ---
-
 title: 20251005+/"politics"-to-most-engineers
 published: 2025-10-05
 updated: 2025-10-05T23:07:42+09:00

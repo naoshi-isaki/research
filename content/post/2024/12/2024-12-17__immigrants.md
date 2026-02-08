@@ -1,5 +1,4 @@
 ---
-
 title: /immigrants
 published: 2024-12-17
 updated: 2024-12-17T16:25:46+09:00

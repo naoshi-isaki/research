@@ -1,5 +1,4 @@
 ---
-
 title: /Autocracy
 published: 2024-10-30
 updated: 2024-10-31T10:10:39+09:00

@@ -1,5 +1,4 @@
 ---
-
 title: 20241027/McNamara-fallacy(quantitative-fallacy)
 published: 2024-10-28
 updated: 2024-10-28T11:00:18+09:00

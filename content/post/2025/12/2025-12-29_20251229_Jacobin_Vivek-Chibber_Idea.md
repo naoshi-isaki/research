@@ -1,5 +1,4 @@
 ---
-
 title: 20251229/Jacobin/Vivek-Chibber/Idea
 published: 2025-12-29
 updated: 2025-12-29T18:17:48+09:00

@@ -1,5 +1,4 @@
 ---
-
 title: /participatory-governance
 published: 2024-10-30
 updated: 2024-10-30T12:49:08+09:00

@@ -1,5 +1,4 @@
 ---
-
 title: /populist-label
 published: 2024-09-11
 updated: 2024-09-11T01:40:56+09:00

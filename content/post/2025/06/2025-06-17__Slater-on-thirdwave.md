@@ -1,5 +1,4 @@
 ---
-
 title: /Slater-on-thirdwave
 published: 2025-06-17
 updated: 2025-10-06T12:27:23+09:00

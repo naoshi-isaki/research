@@ -1,5 +1,4 @@
 ---
-
 title: 20241002+/econ/critical-theory
 published: 2024-10-03
 updated: 2024-10-03T01:43:23+09:00

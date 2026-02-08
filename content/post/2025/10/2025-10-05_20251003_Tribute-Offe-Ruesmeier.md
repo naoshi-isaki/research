@@ -1,5 +1,4 @@
 ---
-
 title: 20251003/Tribute-Offe-Ruesmeier
 published: 2025-10-05
 updated: 2025-10-05T23:12:26+09:00

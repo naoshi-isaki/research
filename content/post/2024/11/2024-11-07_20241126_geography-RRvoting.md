@@ -1,5 +1,4 @@
 ---
-
 title: 20241126/geography-RRvoting
 published: 2024-11-07
 updated: 2024-11-27T00:00:00+09:00

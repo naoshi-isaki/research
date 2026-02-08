@@ -1,5 +1,4 @@
 ---
-
 title: /pandemic-populism
 published: 2023-12-20
 updated: 2023-12-20T02:17:46+09:00

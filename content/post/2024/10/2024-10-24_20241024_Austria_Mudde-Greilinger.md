@@ -1,5 +1,4 @@
 ---
-
 title: 20241024/Austria/Mudde-Greilinger
 published: 2024-10-24
 updated: 2024-10-24T15:41:13+09:00

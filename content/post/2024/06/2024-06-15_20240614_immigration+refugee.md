@@ -1,5 +1,4 @@
 ---
-
 title: 20240614/immigration+refugee
 published: 2024-06-15
 updated: 2024-06-15T00:17:48+09:00

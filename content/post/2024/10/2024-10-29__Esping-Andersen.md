@@ -1,5 +1,4 @@
 ---
-
 title: /Esping-Andersen
 published: 2024-10-29
 updated: 2024-10-29T11:28:04+09:00

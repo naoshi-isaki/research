@@ -1,5 +1,4 @@
 ---
-
 title: /Yascha-Mounk
 published: 2025-05-01
 updated: 2025-05-01T19:39:25+09:00

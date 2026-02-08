@@ -1,5 +1,4 @@
 ---
-
 title: /democracy
 published: 2024-10-30
 updated: 2024-10-31T10:06:49+09:00

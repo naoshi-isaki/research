@@ -1,5 +1,4 @@
 ---
-
 title: /stakeholder
 published: 2024-10-15
 updated: 2024-10-15T15:52:40+09:00

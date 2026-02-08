@@ -1,5 +1,4 @@
 ---
-
 title: /citizen-preference
 published: 2024-10-28
 updated: 2024-12-19T11:00:01+09:00

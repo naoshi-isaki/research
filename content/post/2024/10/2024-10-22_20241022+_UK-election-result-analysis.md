@@ -1,5 +1,4 @@
 ---
-
 title: 20241022+/UK-election-result-analysis
 published: 2024-10-22
 updated: 2024-10-22T16:34:58+09:00

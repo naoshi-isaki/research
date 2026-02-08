@@ -1,5 +1,4 @@
 ---
-
 title: /Democratization
 published: 2024-10-22
 updated: 2024-10-22T00:30:20+09:00

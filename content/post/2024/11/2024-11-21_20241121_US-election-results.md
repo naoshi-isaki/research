@@ -1,5 +1,4 @@
 ---
-
 title: 20241121/US-election-results
 published: 2024-11-21
 updated: 2024-11-21T18:57:32+09:00

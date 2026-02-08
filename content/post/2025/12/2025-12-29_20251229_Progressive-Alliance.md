@@ -1,5 +1,4 @@
 ---
-
 title: 20251229/Progressive-Alliance
 published: 2025-12-29
 updated: 2025-12-29T13:04:59+09:00

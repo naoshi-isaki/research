@@ -1,5 +1,4 @@
 ---
-
 title: /objectivity
 published: 2023-11-28
 updated: 2023-11-28T21:51:53+09:00

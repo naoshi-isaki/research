@@ -1,5 +1,4 @@
 ---
-
 title: /natural-disasters
 published: 2024-12-27
 updated: 2024-12-27T23:06:08+09:00

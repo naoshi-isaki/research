@@ -1,5 +1,4 @@
 ---
-
 title: /Left-Behind?
 published: 2025-04-29
 updated: 2025-04-29T03:10:11+09:00

@@ -1,5 +1,4 @@
 ---
-
 title: 20240907/authoritarian-politics
 published: 2024-09-07
 updated: 2024-09-07T17:51:38+09:00
