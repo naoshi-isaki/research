@@ -17,7 +17,7 @@ draft: true
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2024%2Fsep%2F19%2Fshapeshifter-who-is-the-real-giorgia-meloni-italy-prime-minister" title="The shapeshifter: who is the real Giorgia Meloni?" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://www.theguardian.com/world/2024/sep/19/shapeshifter-who-is-the-real-giorgia-meloni-italy-prime-minister">www.theguardian.com</a></cite></p>
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.politico.eu%2Farticle%2Fthe-mainstreaming-of-giorgia-meloni-italian-election-brothers-of-italy%2F" title="The mainstreaming of Giorgia Meloni" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://www.politico.eu/article/the-mainstreaming-of-giorgia-meloni-italian-election-brothers-of-italy/">www.politico.eu</a></cite></p>
 <p>Newell, J. L. (2023). The Meloni government one year on. Contemporary Italian Politics, 15(4), 389-393.<br />https://doi.org/10.1080/23248823.2023.2272360</p>
-<p>Newell, J. L. (2023). Interpreting the actions of the Meloni government. Contemporary Italian Politics, 15(2), 121–123.<br />https://doi.org/10.1080/23248823.2023.2199495</p>
+<p>Newell, J. L. (2023). Interpreting the actions of the Meloni government. Contemporary Italian Politics, 15(2), 121 E23.<br />https://doi.org/10.1080/23248823.2023.2199495</p>
 <p> </p>
 <p> </p>
 <p> </p>
