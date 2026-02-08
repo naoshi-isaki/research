@@ -57,7 +57,7 @@ jobs:
             --gc \
             --minify \
             --ignoreErrors \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+            --baseURL "https://naoshi-isaki.github.io/nisaki-research/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
