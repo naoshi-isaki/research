@@ -3,8 +3,8 @@ languageCode = 'ja-jp'
 title = 'Nisakilog - research'
 theme = 'PaperMod'
 
-# --- 重要：ここがページ番号表示の鍵です ---
-paginate = 10  # [params]の外、最上位に移動
+[pagination]
+    pagerSize = 10
 
 [outputs]
     home = ["HTML", "RSS", "JSON"]
