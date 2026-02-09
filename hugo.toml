@@ -1,6 +1,6 @@
 baseURL = 'https://naoshi-isaki.github.io/nisaki-research/'
 languageCode = 'ja-jp'
-title = 'Naoshi Isaki Blog'
+title = 'Nisakilog - research'
 theme = 'PaperMod'
 
 # --- 重要：ここがページ番号表示の鍵です ---
