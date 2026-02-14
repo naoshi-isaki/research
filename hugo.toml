@@ -11,11 +11,9 @@ theme = 'qubt'
 
     [params.author]
         name = "Naoshi Isaki"
-        # 修正1: </br> は削除し、純粋な改行のみにします
         greeting = '''比較政治学　政党政治　イギリス政治
 同志社大学大学院総合政策科学研究科 博士後期課程'''
-        # 修正2: パスを引用符 "" で囲みます
-        image = "images/profile.jpg"
+        image = "assets/author.jpg"
         icon = ":wave:"
 
     # SNSリンク設定
