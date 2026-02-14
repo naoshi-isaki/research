@@ -1,6 +1,6 @@
 baseURL = 'https://naoshi-isaki.github.io/research/'
 languageCode = 'ja-jp'
-title = 'ISAKI Naoshi - Research'
+title = 'N.Isaki Research'
 theme = 'qubt'
 
 [pagination]
