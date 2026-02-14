@@ -15,7 +15,7 @@ theme = 'qubt'
         greeting = '''比較政治学　政党政治　イギリス政治
 同志社大学大学院総合政策科学研究科 博士後期課程'''
         image = images/profile.jpg
-        icon = "👋"
+        icon = ':wave:'
 
     # --- SNSリンクは必ずこの [[ ]] 形式で一つずつ書きます ---
     [[params.links]]
