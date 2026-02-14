@@ -12,7 +12,7 @@ theme = 'qubt'
     [params.author]
         name = "Naoshi Isaki"
         # 画像の下に表示される説明文
-        greeting = "比較政治学　同志社大学大学院総合政策科学研究科 博士後期課程"
+        greeting = "比較政治学　政党政治　イギリス政治<br>同志社大学大学院総合政策科学研究科 博士後期課程"
         avatar = "images/profile.jpg"
         icon = "👋"
 
@@ -21,7 +21,7 @@ theme = 'qubt'
         github = "https://github.com/naoshi-isaki"
 
     [[params.links]]
-        website = "https://researchmap.jp/naoshi-isaki"
+        play = "https://researchmap.jp/nisaki"
 
     [[params.links]]
         x-twitter = "https://twitter.com/あなたのID"
