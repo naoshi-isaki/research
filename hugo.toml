@@ -1,4 +1,4 @@
-baseURL = 'https://naoshi-isaki.github.io/nisaki-research/'
+baseURL = 'https://naoshi-isaki.github.io/research/'
 languageCode = 'ja-jp'
 title = 'Naoshi Isaki Blog'
 theme = 'minimal-black' # フォルダ名に合わせて修正
