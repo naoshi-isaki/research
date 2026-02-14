@@ -1,10 +1,13 @@
-/* ナビゲーションメニューの文字サイズを調整 */
-nav a, .menu-item {
-    font-size: 0.85rem !important; /* 標準より少し小さく設定 */
-    letter-spacing: 0.02em;
+/* ナビゲーションメニュー全体の文字サイズを調整 */
+nav[aria-label="main"] a, 
+#mobile-menu a {
+    font-size: 0.85rem !important; /* 標準の text-xl (1.25rem) から大幅に縮小 */
+    font-weight: 500 !important;
+    padding-left: 0.5rem !important;
+    padding-right: 0.5rem !important;
 }
 
-/* モバイルメニューも調整する場合 */
-.mobile-menu a {
-    font-size: 0.9rem !important;
+/* ロゴ横のサイトタイトルもバランスを見て少し小さくする場合 */
+header span.text-2xl {
+    font-size: 1.1rem !important;
 }
