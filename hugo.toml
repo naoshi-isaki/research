@@ -6,25 +6,18 @@ theme = 'qubt'
 [pagination]
     pagerSize = 10
 
-[params.author]
-    name = "Naoshi Isaki"
-    description = "Political Science Researcher"
-    # 必要であれば画像などもここに追加できます
-    avatar = "images/profile.jpg"
-    # ここにSNSリンクを羅列（テーマの仕様に合わせる）
-    github = "https://github.com/naoshi-isaki"
-    twitter = "https://twitter.com/あなたのユーザー名"
-    facebook = "https://facebook.com/あなたのユーザー名"
-    linkedin = "https://linkedin.com/in/あなたのユーザー名"
-
+# すべての独自パラメータは [params] の下に配置します
 [params]
-  [params.author]
-    name = "Naoshi Isaki"
-    # ここに書いた内容が、画像の下（h2タグ）に表示されます
-    description = "政治学研究者 | 政治的対立軸とデータ分析の研究アーカイブ"
-    avatar = "images/profile.jpg"
-    # SNSリンクの設定
+    # メニューを小さくするCSS（static/css/custom.css を作成済みの場合）
+    customCSS = ["css/custom.css"]
 
+    # 著者情報はここ1箇所にまとめます
+    [params.author]
+        name = "Naoshi Isaki"
+        description = "政治学研究者 | 政治的対立軸とデータ分析の研究アーカイブ"
+        avatar = "images/profile.jpg"
+
+# SNSリンクの設定（二重括弧 [[ ]] を使用）
 [[params.social]]
     name = "github"
     icon = "github"
@@ -37,7 +30,7 @@ theme = 'qubt'
 
 [[params.social]]
     name = "researchmap"
-    icon = "link" # Researchmap専用アイコンはないため、汎用リンクアイコンを使用
+    icon = "link"
     url = "https://researchmap.jp/naoshi-isaki"
 
 [[params.social]]
@@ -45,28 +38,25 @@ theme = 'qubt'
     icon = "mail"
     url = "mailto:あなたのメールアドレス"
 
-# 業績：論文や学会発表のページ
+# メニュー設定
 [[menu.main]]
     identifier = "research"
-    name = "research"
+    name = "Research"
     url = "/research/"
     weight = 10
 
-# 教育：講義資料やシラバス
 [[menu.main]]
     identifier = "education"
-    name = "education"
+    name = "Education"
     url = "/education/"
     weight = 20
 
-# ブログ：日々の研究メモ（既存の post フォルダ）
 [[menu.main]]
     identifier = "blog"
-    name = "blog"
-    url = "/blog/"
+    name = "Blog"
+    url = "/post/" # あなたのフォルダ構成が content/post/ ならここを /post/ にします
     weight = 30
 
-# Researchmap：外部サイトへのリンク
 [[menu.main]]
     identifier = "researchmap"
     name = "Researchmap"
