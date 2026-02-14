@@ -18,15 +18,13 @@ theme = 'qubt'
 
     # SNSリンク設定
     [[params.links]]
-        github = "https://github.com/naoshi-isaki"
-    [[params.links]]
         website = "https://researchmap.jp/nisaki"
     [[params.links]]
-        bluesky = "https://bsky.app/profile/あなたのユーザー名"
+        bluesky = "https://bsky.app/profile/nisaki04.bsky.social"
     [[params.links]]
-        x-twitter = "https://twitter.com/あなたのID"
+        x-twitter = "https://twitter.com/nisaki04"
     [[params.links]]
-        email = "mailto:あなたのメールアドレス"
+        email = "mailto:cxzk1001@mail3.doshisha.ac.jp"
 
     # レイアウト設定
     columns = 4
