@@ -1,5 +1,5 @@
 // 検索実行のラグ（ミリ秒）
-const searchDelay = 300; 
+const searchDelay = 600; 
 let timeout = null;
 
 // PaperModの標準入力IDを取得
