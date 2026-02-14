@@ -12,7 +12,7 @@ theme = 'qubt'
     [params.author]
         name = "Naoshi Isaki"
         # 画像の下に表示される説明文
-        greeting = "政治学研究者 | 政治的対立軸とデータ分析の研究アーカイブ"
+        greeting = "比較政治学　同志社大学大学院総合政策科学研究科 博士後期課程"
         avatar = "images/profile.jpg"
         icon = "👋"
 
