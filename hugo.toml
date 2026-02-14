@@ -7,29 +7,31 @@ theme = 'qubt'
     pagerSize = 10
 
 [params]
-    # メニューを小さくするCSS
     customCSS = ["css/custom.css"]
 
-    # --- ここが重要：Qubt(L1nkr)の変数名に合わせる ---
     [params.author]
-        name = 'Naoshi Isaki'
-        image = 'author.png'
-        # ここが「description」の代わりです
-        greeting = '政治学研究者 | 政治 flash と対立軸の研究アーカイブ'
-        icon = '👋'
+        name = "Naoshi Isaki"
+        # 画像の下に表示される説明文
+        greeting = "政治学研究者 | 政治的対立軸とデータ分析の研究アーカイブ"
+        avatar = "images/profile.jpg"
+        icon = "👋"
 
-    # --- SNSリンクはこの形式で書く必要があります ---
-    [params.links]
+    # --- SNSリンクは必ずこの [[ ]] 形式で一つずつ書きます ---
+    [[params.links]]
         github = "https://github.com/naoshi-isaki"
-        x-twitter = "https://twitter.com/あなたのID"
-        linkedin = "https://linkedin.com/in/あなたのID"
-        email = "mailto:あなたのメールアドレス"
+
+    [[params.links]]
         website = "https://researchmap.jp/naoshi-isaki"
 
-    # アイコンの下に「GitHub」などの文字を出すかどうか
-    icontext = true
-    # リンクを何列に並べるか（2〜6で指定）
+    [[params.links]]
+        x-twitter = "https://twitter.com/あなたのID"
+
+    [[params.links]]
+        email = "mailto:あなたのメールアドレス"
+
+    # レイアウト設定
     columns = 4
+    icontext = true
 
 # メニュー設定
 [[menu.main]]
