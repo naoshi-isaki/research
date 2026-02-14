@@ -11,3 +11,43 @@ theme = 'qubt'
     description = "Political Science Researcher"
     # 必要であれば画像などもここに追加できます
     avatar = "images/profile.jpg"
+    # ここにSNSリンクを羅列（テーマの仕様に合わせる）
+    github = "https://github.com/naoshi-isaki"
+    twitter = "https://twitter.com/あなたのユーザー名"
+    facebook = "https://facebook.com/あなたのユーザー名"
+    linkedin = "https://linkedin.com/in/あなたのユーザー名"
+
+# 業績：論文や学会発表のページ
+[[menu.main]]
+    identifier = "research"
+    name = "業績"
+    url = "/research/"
+    weight = 10
+
+# 教育：講義資料やシラバス
+[[menu.main]]
+    identifier = "teaching"
+    name = "教育"
+    url = "/teaching/"
+    weight = 20
+
+# ブログ：日々の研究メモ（既存の post フォルダ）
+[[menu.main]]
+    identifier = "blog"
+    name = "ブログ"
+    url = "/post/"
+    weight = 30
+
+# Researchmap：外部サイトへのリンク
+[[menu.main]]
+    identifier = "researchmap"
+    name = "Researchmap"
+    url = "https://researchmap.jp/naoshi-isaki"
+    weight = 40
+
+# 新規作成（以前設定したVS Code起動用）
+[[menu.main]]
+    identifier = "new-post"
+    name = "＋新規作成"
+    url = "https://github.dev/naoshi-isaki/research/tree/main/content/post"
+    weight = 50
