@@ -43,7 +43,13 @@ theme = 'qubt'
     weight = 20
 
 [[menu.main]]
+    identifier = "courses"
+    name = "Courses"
+    url = "/courses/"
+    weight = 30
+
+[[menu.main]]
     identifier = "blog"
     name = "Blog"
-    url = "/post/"
-    weight = 30
+    url = "/blog/"
+    weight = 40
