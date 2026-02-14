@@ -81,3 +81,23 @@ nav[aria-label="main"] a {
     min-height: auto !important; /* 画面いっぱいに広がりすぎるのを防ぐ */
     padding-top: 2rem !important;
 }
+
+/* 記事一覧（CoursesやBlog）を左詰めに強制する */
+.grid.grid-cols-1.justify-items-center {
+    justify-items: start !important;
+}
+
+/* 2列表示（PC）の際も左から並ぶように調整 */
+@media (min-width: 1024px) {
+    .lg\:grid-cols-2 {
+        justify-items: start !important;
+    }
+}
+
+/* カード自体の最大幅を維持しつつ、左に寄せる */
+.grid > a {
+    width: 100%;
+    max-width: 42rem; /* 必要に応じて調整。デモサイトの max-w-2xl に相当 */
+    margin-left: 0 !important;
+    margin-right: auto !important;
+}
