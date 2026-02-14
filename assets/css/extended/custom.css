@@ -12,9 +12,9 @@ header span.text-2xl {
     font-size: 1.1rem !important;
 }
 
-/* 自己紹介文（greeting）の改行をブラウザに強制認識させる */
+/* ソースコードのクラス名 (h2.mt-4.text-center.text-xl) を狙い撃ちします */
 h2.mt-4.text-center.text-xl {
-    white-space: pre-line !important; /* これで改行が有効になります */
-    line-height: 1.6 !important;    /* 行間を広げて読みやすくします */
+    white-space: pre-line !important; 
+    line-height: 1.6 !important;
     display: block !important;
 }
