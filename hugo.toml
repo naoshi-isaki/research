@@ -18,13 +18,32 @@ theme = 'qubt'
     linkedin = "https://linkedin.com/in/あなたのユーザー名"
 
 [params]
-  [params.hero]
-    enable = true
-    title = "Naoshi Isaki"
-    # ここに書いたものがトップページの大きなタイトルの下に出ます
-    subtitle = "政治的対立軸とデータ分析の研究アーカイブ"
-    # もし description という項目名が必要な場合
-    content = "政治学研究者。計量分析と政治理論を組み合わせて研究しています。"
+  [params.author]
+    name = "Naoshi Isaki"
+    # ここに書いた内容が、画像の下（h2タグ）に表示されます
+    description = "政治学研究者 | 政治的対立軸とデータ分析の研究アーカイブ"
+    avatar = "images/profile.jpg"
+    # SNSリンクの設定
+
+[[params.social]]
+    name = "github"
+    icon = "github"
+    url = "https://github.com/naoshi-isaki"
+
+[[params.social]]
+    name = "twitter"
+    icon = "twitter"
+    url = "https://twitter.com/あなたのユーザー名"
+
+[[params.social]]
+    name = "researchmap"
+    icon = "link" # Researchmap専用アイコンはないため、汎用リンクアイコンを使用
+    url = "https://researchmap.jp/naoshi-isaki"
+
+[[params.social]]
+    name = "email"
+    icon = "mail"
+    url = "mailto:あなたのメールアドレス"
 
 # 業績：論文や学会発表のページ
 [[menu.main]]
