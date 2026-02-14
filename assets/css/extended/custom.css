@@ -1,7 +1,7 @@
 /* ナビゲーションメニュー全体の文字サイズを調整 */
 nav[aria-label="main"] a, 
 #mobile-menu a {
-    font-size: 0.85rem !important; /* 標準の text-xl (1.25rem) から大幅に縮小 */
+    font-size: 0.6rem !important; /* 標準の text-xl (1.25rem) から大幅に縮小 */
     font-weight: 500 !important;
     padding-left: 0.5rem !important;
     padding-right: 0.5rem !important;
@@ -12,7 +12,9 @@ header span.text-2xl {
     font-size: 1.1rem !important;
 }
 
-/* 自己紹介文（h2タグ）内の改行を有効にする */
-h2.text-xl {
-    white-space: pre-line !important;
+/* 自己紹介文（greeting）の改行をブラウザに強制認識させる */
+h2.mt-4.text-center.text-xl {
+    white-space: pre-line !important; /* これで改行が有効になります */
+    line-height: 1.6 !important;    /* 行間を広げて読みやすくします */
+    display: block !important;
 }
