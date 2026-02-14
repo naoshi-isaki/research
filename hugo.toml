@@ -17,6 +17,14 @@ theme = 'qubt'
     facebook = "https://facebook.com/あなたのユーザー名"
     linkedin = "https://linkedin.com/in/あなたのユーザー名"
 
+[params]
+    # サイト全体の紹介文
+    description = "政治的対立軸とデータ分析の研究アーカイブ"
+
+    # もしトップページのヒーローセクションに出したい場合
+    [params.homepage]
+        description = "政治学研究者。計量分析と政治理論を組み合わせて研究しています。"
+
 # 業績：論文や学会発表のページ
 [[menu.main]]
     identifier = "research"
