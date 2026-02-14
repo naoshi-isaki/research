@@ -14,7 +14,7 @@ theme = 'qubt'
     # 著者情報はここ1箇所にまとめます
     [params.author]
         name = "Naoshi Isaki"
-        description = "政治学研究者 | 政治的対立軸とデータ分析の研究アーカイブ"
+        subtitle = "政治学研究者 | 政治的対立軸とデータ分析の研究アーカイブ"
         avatar = "images/profile.jpg"
 
 # SNSリンクの設定（二重括弧 [[ ]] を使用）
