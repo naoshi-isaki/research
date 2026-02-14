@@ -11,25 +11,22 @@ theme = 'qubt'
 
     [params.author]
         name = "Naoshi Isaki"
-        # 画像の下に表示される説明文
-        greeting = '''比較政治学　政党政治　イギリス政治</br>
+        # 修正1: </br> は削除し、純粋な改行のみにします
+        greeting = '''比較政治学　政党政治　イギリス政治
 同志社大学大学院総合政策科学研究科 博士後期課程'''
-        image = images/profile.jpg
-        icon = ':wave:'
+        # 修正2: パスを引用符 "" で囲みます
+        image = "images/profile.jpg"
+        icon = ":wave:"
 
-    # --- SNSリンクは必ずこの [[ ]] 形式で一つずつ書きます ---
+    # SNSリンク設定
     [[params.links]]
         github = "https://github.com/naoshi-isaki"
-
     [[params.links]]
         website = "https://researchmap.jp/nisaki"
-
     [[params.links]]
         bluesky = "https://bsky.app/profile/あなたのユーザー名"
-
     [[params.links]]
         x-twitter = "https://twitter.com/あなたのID"
-
     [[params.links]]
         email = "mailto:あなたのメールアドレス"
 
