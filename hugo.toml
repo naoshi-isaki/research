@@ -13,7 +13,7 @@ theme = 'qubt'
         name = "Naoshi Isaki"
         # 画像の下に表示される説明文
         greeting = "比較政治学　政党政治　イギリス政治<br>同志社大学大学院総合政策科学研究科 博士後期課程"
-        avatar = "images/profile.jpg"
+        image = "images/profile.jpg"
         icon = "👋"
 
     # --- SNSリンクは必ずこの [[ ]] 形式で一つずつ書きます ---
