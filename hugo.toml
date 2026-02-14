@@ -36,6 +36,12 @@ theme = 'qubt'
 
 # メニュー設定
 [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 5
+
+[[menu.main]]
     identifier = "research"
     name = "Research"
     url = "/research/"
