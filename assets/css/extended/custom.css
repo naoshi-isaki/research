@@ -1,103 +1,90 @@
-/* ナビゲーションメニュー全体の文字サイズを調整 */
-nav[aria-label="main"] a, 
-#mobile-menu a {
-    font-size: 0.6rem !important; /* 標準の text-xl (1.25rem) から大幅に縮小 */
+/* --- 1. ナビゲーション・ヘッダーの調整 --- */
+
+/* PC版ナビゲーション */
+nav[aria-label="main"] a {
+    font-size: 0.8rem !important;
     font-weight: 500 !important;
     padding-left: 0.5rem !important;
     padding-right: 0.5rem !important;
 }
 
-/* ロゴ横のサイトタイトルもバランスを見て少し小さくする場合 */
+/* サイトタイトル */
 header span.text-2xl {
     font-size: 1.1rem !important;
 }
 
-/* ソースコードのクラス名 (h2.mt-4.text-center.text-xl) を狙い撃ちします */
+/* スマホ版メニュー（決定版：親要素からサイズを強制上書き） */
+#mobile-menu, 
+#mobile-menu nav, 
+#mobile-menu a {
+    font-size: 1.0rem !important; /* 4xlから標準的なサイズへ */
+    line-height: 1.5 !important;
+}
+
+#mobile-menu a {
+    font-weight: 500 !important;
+    padding-top: 0.8rem !important;
+    padding-bottom: 0.8rem !important;
+    display: block !important;
+    width: 100% !important;
+    text-align: center !important;
+}
+
+#mobile-menu nav {
+    min-height: auto !important;
+    padding-top: 1rem !important;
+}
+
+/* --- 2. 自己紹介 (Greeting) の調整 --- */
 h2.mt-4.text-center.text-xl {
     white-space: pre-line !important; 
     line-height: 1.6 !important;
     display: block !important;
 }
 
-/* .mdファイル内の段落(p)とリスト(li)の行間・余白を調整 */
+/* --- 3. 本文 (.mdファイル) の読みやすさ調整 --- */
 .prose p {
-    margin-bottom: 1.5rem !important; /* 段落の下に空間を作る */
-    line-height: 1.8 !important;    /* 行間を広げる */
-}
-
-.prose li {
-    margin-bottom: 0.5rem !important; /* 箇条書きの項目間を広げる */
-    line-height: 1.7 !important;
-}
-
-/* 連続する改行を維持したい場合 */
-.prose {
-    white-space: normal; /* 基本は通常通り */
-}
-
-/* 箇条書き（リスト）のマーカーを表示させ、位置を調整する */
-.prose ul {
-    list-style-type: disc !important; /* 黒丸を表示 */
-    padding-left: 1.5rem !important;  /* 左側の余白を確保 */
     margin-bottom: 1.5rem !important;
+    line-height: 1.8 !important;
 }
 
-.prose ul li::marker {
-    color: #475569 !important; /* マーカーの色を濃いグレー（slate-600）に設定 */
-}
-
-/* 番号付きリストの設定 */
-.prose ol {
-    list-style-type: decimal !important; /* 数字を表示 */
+/* 箇条書きの設定（・を表示させ左寄せにする） */
+.prose ul {
+    list-style-type: disc !important;
     padding-left: 1.5rem !important;
     margin-bottom: 1.5rem !important;
 }
 
-/* リスト内の行間と項目間の余白 */
+.prose ul li::marker {
+    color: #475569 !important;
+}
+
+/* 番号付きリスト */
+.prose ol {
+    list-style-type: decimal !important;
+    padding-left: 1.5rem !important;
+}
+
 .prose li {
     line-height: 1.8 !important;
     margin-bottom: 0.5rem !important;
     padding-left: 0.25rem !important;
 }
 
-/* ナビゲーションメニュー全体の文字サイズを調整 */
-nav[aria-label="main"] a {
-    font-size: 0.8rem !important; /* PC版：少しだけ大きくして視認性確保 */
-    font-weight: 500 !important;
-    padding-left: 0.5rem !important;
-    padding-right: 0.5rem !important;
-}
-
-/* スマホのハンバーガーメニュー内の文字サイズを個別に調整 */
-#mobile-menu a {
-    font-size: 1.2rem !important; /* 4xlから大幅に縮小し、スマホで押しやすいサイズに */
-    font-weight: 500 !important;
-    padding-top: 1rem !important;
-    padding-bottom: 1rem !important;
-}
-
-/* モバイルメニュー全体の背景や高さの調整（必要に応じて） */
-#mobile-menu nav {
-    min-height: auto !important; /* 画面いっぱいに広がりすぎるのを防ぐ */
-    padding-top: 2rem !important;
-}
-
-/* 記事一覧（CoursesやBlog）を左詰めに強制する */
+/* --- 4. 記事一覧 (Courses/Blog) の左寄せ設定 --- */
 .grid.grid-cols-1.justify-items-center {
     justify-items: start !important;
 }
 
-/* 2列表示（PC）の際も左から並ぶように調整 */
 @media (min-width: 1024px) {
     .lg\:grid-cols-2 {
         justify-items: start !important;
     }
 }
 
-/* カード自体の最大幅を維持しつつ、左に寄せる */
 .grid > a {
     width: 100%;
-    max-width: 42rem; /* 必要に応じて調整。デモサイトの max-w-2xl に相当 */
+    max-width: 42rem;
     margin-left: 0 !important;
     margin-right: auto !important;
 }
