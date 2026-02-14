@@ -59,3 +59,25 @@ h2.mt-4.text-center.text-xl {
     margin-bottom: 0.5rem !important;
     padding-left: 0.25rem !important;
 }
+
+/* ナビゲーションメニュー全体の文字サイズを調整 */
+nav[aria-label="main"] a {
+    font-size: 0.8rem !important; /* PC版：少しだけ大きくして視認性確保 */
+    font-weight: 500 !important;
+    padding-left: 0.5rem !important;
+    padding-right: 0.5rem !important;
+}
+
+/* スマホのハンバーガーメニュー内の文字サイズを個別に調整 */
+#mobile-menu a {
+    font-size: 1.2rem !important; /* 4xlから大幅に縮小し、スマホで押しやすいサイズに */
+    font-weight: 500 !important;
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+}
+
+/* モバイルメニュー全体の背景や高さの調整（必要に応じて） */
+#mobile-menu nav {
+    min-height: auto !important; /* 画面いっぱいに広がりすぎるのを防ぐ */
+    padding-top: 2rem !important;
+}
