@@ -1,60 +1,15 @@
-baseURL = 'https://naoshi-isaki.github.io/nisaki-research/'
+baseURL = 'https://naoshi-isaki.github.io/research/'
 languageCode = 'ja-jp'
-title = 'Nisakilog - research'
-theme = 'PaperMod'
+title = 'Naoshi Isaki Research'
+theme = 'qubt'
 
 [pagination]
     pagerSize = 10
 
-[outputs]
-    home = ["HTML", "RSS", "JSON"]
-
-[markup.goldmark.renderer]
-    unsafe = true
-
-# 記事側にある「published」を日付として認識させる設定
-[frontmatter]
-    date = ["published", "date", "publishDate"]
-    lastmod = ["updated", "lastmod"]
-
-[list]
-    sortFields = ["Date", "Title"]
-
-[[menu.main]]
-    identifier = "search"
-    name = "Search"
-    url = "search/"
-    weight = 10
-
-[[menu.main]]
-    identifier = "archives"
-    name = "Archives"
-    url = "archives/"
-    weight = 20
-
-[[menu.main]]
-    identifier = "tags"
-    name = "Tags"
-    url = "tags/"
-    weight = 30
-
-[[menu.main]]
-    identifier = "new-post"
-    name = "+New Post"
-    # GitHubリポジトリの「post」フォルダ内に新しいファイルを作る画面へ飛ばす
-    url = "https://github.dev/naoshi-isaki/nisaki-research/tree/main/content/post"
-    weight = 40
-
 [params]
-    showFullTextContent = false
-    ShowReadingTime = true
-    ShowPostNavLinks = true
-    ShowBreadCrumbs = true
+    # ポートフォリオ風のトップページ設定
+    description = "Political Science Researcher"
+    author = "Naoshi Isaki"
     
-    # ページ番号を数字で表示する
-    ShowPaginationNumbers = true
-    
-    mainSections = ["post"]
-
-    # 検索（Fuse.js）の詳細オプション
-    fuseOpts = { isCaseSensitive = false, shouldSort = true, location = 0, distance = 1000, threshold = 0.4, minMatchCharLength = 0, keys = ["title", "permalink", "summary", "content"] }
+    # 以前の「1件目の強調」などはこのテーマ独自のスタイルに置き換わります
+    # このテーマは標準で非常に綺麗なカードレイアウトを持っています
