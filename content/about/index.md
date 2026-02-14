@@ -1,9 +1,7 @@
 ---
 title: "Biography"
 description: "伊崎 尚（Naoshi Isaki）のプロフィール"
-# デモサイトの Biography 用レイアウトを強制適用します
 layout: "page"
-type: "about"
 ---
 
 ## 自己紹介
