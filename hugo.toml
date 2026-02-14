@@ -22,7 +22,7 @@ theme = 'qubt'
         github = "https://github.com/naoshi-isaki"
 
     [[params.links]]
-        play = "https://researchmap.jp/nisaki"
+        website = "https://researchmap.jp/nisaki"
 
     [[params.links]]
         bluesky = "https://bsky.app/profile/あなたのユーザー名"
