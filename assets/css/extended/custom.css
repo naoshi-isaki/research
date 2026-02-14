@@ -18,3 +18,19 @@ h2.mt-4.text-center.text-xl {
     line-height: 1.6 !important;
     display: block !important;
 }
+
+/* .mdファイル内の段落(p)とリスト(li)の行間・余白を調整 */
+.prose p {
+    margin-bottom: 1.5rem !important; /* 段落の下に空間を作る */
+    line-height: 1.8 !important;    /* 行間を広げる */
+}
+
+.prose li {
+    margin-bottom: 0.5rem !important; /* 箇条書きの項目間を広げる */
+    line-height: 1.7 !important;
+}
+
+/* 連続する改行を維持したい場合 */
+.prose {
+    white-space: normal; /* 基本は通常通り */
+}
