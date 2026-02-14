@@ -23,13 +23,6 @@
     font-style: normal !important;
 }
 
-/* 記事一覧の「一番上のカード」だけ背景色をつけて強調する */
-.post-entry:first-of-type {
-    background: #fdf6e3 !important; /* 薄いベージュ（お好みで変更可） */
-    border: 1px solid #eee8d5;    /* 枠線の色も少し強調 */
-    box-shadow: 0 4px 10px rgba(0,0,0,0.05); /* 少し浮かせる */
-}
-
 /* ダークモード時の1件目の色（必要に応じて） */
 .dark .post-entry:first-of-type {
     background: #2e2e33 !important;
