@@ -34,3 +34,28 @@ h2.mt-4.text-center.text-xl {
 .prose {
     white-space: normal; /* 基本は通常通り */
 }
+
+/* 箇条書き（リスト）のマーカーを表示させ、位置を調整する */
+.prose ul {
+    list-style-type: disc !important; /* 黒丸を表示 */
+    padding-left: 1.5rem !important;  /* 左側の余白を確保 */
+    margin-bottom: 1.5rem !important;
+}
+
+.prose ul li::marker {
+    color: #475569 !important; /* マーカーの色を濃いグレー（slate-600）に設定 */
+}
+
+/* 番号付きリストの設定 */
+.prose ol {
+    list-style-type: decimal !important; /* 数字を表示 */
+    padding-left: 1.5rem !important;
+    margin-bottom: 1.5rem !important;
+}
+
+/* リスト内の行間と項目間の余白 */
+.prose li {
+    line-height: 1.8 !important;
+    margin-bottom: 0.5rem !important;
+    padding-left: 0.25rem !important;
+}
