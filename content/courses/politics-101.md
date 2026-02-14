@@ -1,6 +1,6 @@
 ---
 title: "政治学基礎 A"
-date: 2026-04-01
+date: 2026-02-01
 description: "2026年度春学期 月曜2限"
 layout: "post"
 tags: ["講義資料", "2026年度"]
