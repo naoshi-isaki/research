@@ -79,23 +79,29 @@ h2.mt-4.text-center.text-xl {
 
 /* --- 4. 記事一覧 (Courses/Blog) の左寄せ設定 --- */
 
-/* グリッド内のアイテム配置を左端に強制 */
-.grid.grid-cols-1.justify-items-center {
-    justify-items: start !important;
-}
-
-/* PC（2列）表示の際も左端から並べる */
-@media (min-width: 1024px) {
-    .lg\:grid-cols-2 {
-        justify-items: start !important;
-    }
-}
-
-/* 個別のカードを左寄せにする */
-.grid > a {
-    width: 100%;
-    max-width: 42rem; /* デモサイトのカード幅に準拠 */
+/* グリッドを包むコンテナ自体を左側に寄せる */
+.mx-auto.max-w-\(--breakpoint-xl\) {
     margin-left: 0 !important;
     margin-right: auto !important;
-    display: block;
+    padding-left: 1rem !important; /* 左側の適度な余白 */
+}
+
+/* グリッド内のアイテム配置を左端に固定 */
+.grid {
+    justify-items: start !important;
+    justify-content: start !important;
+}
+
+/* カード自体のマージンを左詰めにする */
+.grid > a,
+.grid > div {
+    margin-left: 0 !important;
+    margin-right: auto !important;
+}
+
+/* 2列（PC）表示の際、グリッド全体が中央に寄るのを防ぐ */
+@media (min-width: 1024px) {
+    .mx-auto.max-w-\(--breakpoint-xl\) {
+        margin-left: 2rem !important; /* PCでは少し左を開けるときれいです */
+    }
 }
