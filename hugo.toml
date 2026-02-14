@@ -10,7 +10,7 @@ theme = 'qubt'
     customCSS = ["css/custom.css"]
 
     [params.author]
-        name = "Naoshi Isaki"
+        name = "伊﨑 直志（ISAKI Naoshi）"
         greeting = '''比較政治学　政党政治　イギリス政治'''
         image = "assets/author.jpg"
         icon = ":wave:"
