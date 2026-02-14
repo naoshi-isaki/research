@@ -1,60 +1,25 @@
 baseURL = 'https://naoshi-isaki.github.io/nisaki-research/'
 languageCode = 'ja-jp'
-title = 'Nisakilog - research'
-theme = 'PaperMod'
+title = 'Naoshi Isaki Blog'
+theme = 'minimal-black' # フォルダ名に合わせて修正
 
 [pagination]
     pagerSize = 10
 
-[outputs]
-    home = ["HTML", "RSS", "JSON"]
+[params]
+    # テーマ固有の設定
+    description = "Political Science Research Archive"
+    author = "Naoshi Isaki"
+    # 外観の微調整（必要に応じて）
+    showFullTextContent = false
 
-[markup.goldmark.renderer]
-    unsafe = true
-
-# 記事側にある「published」を日付として認識させる設定
-[frontmatter]
-    date = ["published", "date", "publishDate"]
-    lastmod = ["updated", "lastmod"]
-
-[list]
-    sortFields = ["Date", "Title"]
-
+# メニュー設定（テーマに合わせて identifier を調整）
 [[menu.main]]
-    identifier = "search"
     name = "Search"
-    url = "search/"
+    url = "/search/"
     weight = 10
 
 [[menu.main]]
-    identifier = "archives"
     name = "Archives"
-    url = "archives/"
+    url = "/archives/"
     weight = 20
-
-[[menu.main]]
-    identifier = "tags"
-    name = "Tags"
-    url = "tags/"
-    weight = 30
-
-[[menu.main]]
-    identifier = "new-post"
-    name = "+New Post"
-    # GitHubリポジトリの「post」フォルダ内に新しいファイルを作る画面へ飛ばす
-    url = "https://github.dev/naoshi-isaki/nisaki-research/tree/main/content/post"
-    weight = 40
-
-[params]
-    showFullTextContent = false
-    ShowReadingTime = true
-    ShowPostNavLinks = true
-    ShowBreadCrumbs = true
-    
-    # ページ番号を数字で表示する
-    ShowPaginationNumbers = true
-    
-    mainSections = ["post"]
-
-    # 検索（Fuse.js）の詳細オプション
-    fuseOpts = { isCaseSensitive = false, shouldSort = true, location = 0, distance = 1000, threshold = 0.4, minMatchCharLength = 0, keys = ["title", "permalink", "summary", "content"] }
