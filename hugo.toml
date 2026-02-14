@@ -1,6 +1,6 @@
 baseURL = 'https://naoshi-isaki.github.io/research/'
 languageCode = 'ja-jp'
-title = 'Naoshi Isaki Research'
+title = 'ISAKI Naoshi - Research'
 theme = 'qubt'
 
 [pagination]
@@ -11,7 +11,7 @@ theme = 'qubt'
 
     [params.author]
         name = "ISAKI Naoshi"
-        greeting = "伊﨑直志（同志社大学大学院総合政策科学研究科 博士後期課程／比較政治学）"
+        greeting = "比較政治学、政党政治論、イギリス政治"
         image = "assets/author.jpg"
         icon = ":wave:"
     
