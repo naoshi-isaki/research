@@ -19,7 +19,7 @@ theme = 'qubt'
 '''
         image = "assets/author.jpg"
         icon = ":wave:"
-
+    
     # SNSリンク設定
     [[params.links]]
         website = "https://researchmap.jp/nisaki"
@@ -33,6 +33,8 @@ theme = 'qubt'
     # レイアウト設定
     columns = 4
     icontext = true
+
+    mainSections = ["post", "courses"]
 
 # メニュー設定
 [[menu.main]]
