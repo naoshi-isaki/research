@@ -13,26 +13,34 @@ header span.text-2xl {
     font-size: 1.1rem !important;
 }
 
-/* スマホ版メニュー（決定版：親要素からサイズを強制上書き） */
-#mobile-menu, 
-#mobile-menu nav, 
-#mobile-menu a {
-    font-size: 1.0rem !important; /* 4xlから標準的なサイズへ */
-    line-height: 1.5 !important;
-}
-
-#mobile-menu a {
-    font-weight: 500 !important;
-    padding-top: 0.8rem !important;
-    padding-bottom: 0.8rem !important;
-    display: block !important;
-    width: 100% !important;
-    text-align: center !important;
+/* メニュー全体のコンテナサイズを抑制 */
+#mobile-menu {
+    padding-top: 0.5rem !important;
+    padding-bottom: 0.5rem !important;
 }
 
 #mobile-menu nav {
     min-height: auto !important;
-    padding-top: 1rem !important;
+    padding-top: 0.5rem !important;
+    padding-bottom: 0.5rem !important;
+}
+
+/* リンク文字をさらに小さく（0.8rem程度） */
+#mobile-menu a {
+    font-size: 0.85rem !important; /* 1.0remからさらに縮小 */
+    font-weight: 500 !important;
+    padding-top: 0.5rem !important;   /* 上下の余白を最小限に */
+    padding-bottom: 0.5rem !important;
+    line-height: 1.2 !important;
+    display: block !important;
+    width: 100% !important;
+    text-align: center !important;
+    border-bottom: 0.5px solid rgba(0,0,0,0.05); /* 項目間の境界線を薄く入れる */
+}
+
+/* 最後の項目の境界線を消す */
+#mobile-menu a:last-child {
+    border-bottom: none !important;
 }
 
 /* --- 2. 自己紹介 (Greeting) の調整 --- */
