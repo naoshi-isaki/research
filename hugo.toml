@@ -6,24 +6,30 @@ theme = 'qubt'
 [pagination]
     pagerSize = 10
 
-# [params] という親要素を書かずに、直接指定してみます
-[author]
-    name = "Naoshi Isaki"
-    description = "政治学研究者 | 政治的対立軸とデータ分析の研究アーカイブ"
-    avatar = "images/profile.jpg"
-
 [params]
+    # メニューを小さくするCSS
     customCSS = ["css/custom.css"]
-    # 予備としてこちらにも書いておきます
-    [params.author]
-        name = "Naoshi Isaki"
-        description = "政治学研究者 | 政治的対立軸とデータ分析の研究アーカイブ"
 
-# SNS設定
-[[params.social]]
-    name = "github"
-    icon = "github"
-    url = "https://github.com/naoshi-isaki"
+    # --- ここが重要：Qubt(L1nkr)の変数名に合わせる ---
+    [params.author]
+        name = 'Naoshi Isaki'
+        image = 'author.png'
+        # ここが「description」の代わりです
+        greeting = '政治学研究者 | 政治 flash と対立軸の研究アーカイブ'
+        icon = '👋'
+
+    # --- SNSリンクはこの形式で書く必要があります ---
+    [params.links]
+        github = "https://github.com/naoshi-isaki"
+        x-twitter = "https://twitter.com/あなたのID"
+        linkedin = "https://linkedin.com/in/あなたのID"
+        email = "mailto:あなたのメールアドレス"
+        website = "https://researchmap.jp/naoshi-isaki"
+
+    # アイコンの下に「GitHub」などの文字を出すかどうか
+    icontext = true
+    # リンクを何列に並べるか（2〜6で指定）
+    columns = 4
 
 # メニュー設定
 [[menu.main]]
