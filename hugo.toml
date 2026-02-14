@@ -1,25 +1,15 @@
 baseURL = 'https://naoshi-isaki.github.io/research/'
 languageCode = 'ja-jp'
-title = 'Naoshi Isaki Blog'
-theme = 'minimal-black' # フォルダ名に合わせて修正
+title = 'Naoshi Isaki Research'
+theme = 'qubt'
 
 [pagination]
     pagerSize = 10
 
 [params]
-    # テーマ固有の設定
-    description = "Political Science Research Archive"
+    # ポートフォリオ風のトップページ設定
+    description = "Political Science Researcher"
     author = "Naoshi Isaki"
-    # 外観の微調整（必要に応じて）
-    showFullTextContent = false
-
-# メニュー設定（テーマに合わせて identifier を調整）
-[[menu.main]]
-    name = "Search"
-    url = "/search/"
-    weight = 10
-
-[[menu.main]]
-    name = "Archives"
-    url = "/archives/"
-    weight = 20
+    
+    # 以前の「1件目の強調」などはこのテーマ独自のスタイルに置き換わります
+    # このテーマは標準で非常に綺麗なカードレイアウトを持っています
