@@ -11,7 +11,7 @@ theme = 'qubt'
 
     [params.author]
         name = "ISAKI Naoshi"
-        greeting = "同志社大学大学院 総合政策科学研究科 博士後期課程\n比較政治学 / イギリス政党政治の研究"
+        greeting = "伊﨑直志（同志社大学大学院総合政策科学研究科 博士後期課程／比較政治学）"
         image = "assets/author.jpg"
         icon = ":wave:"
     
