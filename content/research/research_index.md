@@ -1,7 +1,7 @@
 ---
 title: "Research"
 description: "研究業績一覧"
-layout: "page"
+layout: "simple"
 ---
 
 ## 研究関心
