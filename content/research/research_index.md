@@ -1,6 +1,6 @@
 ---
 title: "Research"
-description: "研究業績一覧"
+description: "担当講義・演習の一覧"
 layout: "page"
 ---
 
