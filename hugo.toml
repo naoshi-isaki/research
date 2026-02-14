@@ -6,10 +6,8 @@ theme = 'qubt'
 [pagination]
     pagerSize = 10
 
-[params]
-    # ポートフォリオ風のトップページ設定
+[params.author]
+    name = "Naoshi Isaki"
     description = "Political Science Researcher"
-    author = "Naoshi Isaki"
-    
-    # 以前の「1件目の強調」などはこのテーマ独自のスタイルに置き換わります
-    # このテーマは標準で非常に綺麗なカードレイアウトを持っています
+    # 必要であれば画像などもここに追加できます
+    avatar = "images/profile.jpg"
