@@ -18,32 +18,33 @@ theme = 'qubt'
     linkedin = "https://linkedin.com/in/あなたのユーザー名"
 
 [params]
-    # サイト全体の紹介文
-    description = "政治的対立軸とデータ分析の研究アーカイブ"
-
-    # もしトップページのヒーローセクションに出したい場合
-    [params.homepage]
-        description = "政治学研究者。計量分析と政治理論を組み合わせて研究しています。"
+  [params.hero]
+    enable = true
+    title = "Naoshi Isaki"
+    # ここに書いたものがトップページの大きなタイトルの下に出ます
+    subtitle = "政治的対立軸とデータ分析の研究アーカイブ"
+    # もし description という項目名が必要な場合
+    content = "政治学研究者。計量分析と政治理論を組み合わせて研究しています。"
 
 # 業績：論文や学会発表のページ
 [[menu.main]]
     identifier = "research"
-    name = "業績"
+    name = "research"
     url = "/research/"
     weight = 10
 
 # 教育：講義資料やシラバス
 [[menu.main]]
-    identifier = "teaching"
-    name = "教育"
-    url = "/teaching/"
+    identifier = "education"
+    name = "education"
+    url = "/education/"
     weight = 20
 
 # ブログ：日々の研究メモ（既存の post フォルダ）
 [[menu.main]]
     identifier = "blog"
-    name = "ブログ"
-    url = "/post/"
+    name = "blog"
+    url = "/blog/"
     weight = 30
 
 # Researchmap：外部サイトへのリンク
@@ -52,10 +53,3 @@ theme = 'qubt'
     name = "Researchmap"
     url = "https://researchmap.jp/naoshi-isaki"
     weight = 40
-
-# 新規作成（以前設定したVS Code起動用）
-[[menu.main]]
-    identifier = "new-post"
-    name = "＋新規作成"
-    url = "https://github.dev/naoshi-isaki/research/tree/main/content/post"
-    weight = 50
