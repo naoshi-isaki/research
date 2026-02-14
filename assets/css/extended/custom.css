@@ -13,7 +13,7 @@ header span.text-2xl {
     font-size: 1.1rem !important;
 }
 
-/* メニュー全体のコンテナサイズを抑制 */
+/* スマホ版メニュー全体のサイズ抑制 */
 #mobile-menu {
     padding-top: 0.5rem !important;
     padding-bottom: 0.5rem !important;
@@ -25,38 +25,37 @@ header span.text-2xl {
     padding-bottom: 0.5rem !important;
 }
 
-/* リンク文字をさらに小さく（0.8rem程度） */
+/* スマホ版リンク文字の最小化 */
 #mobile-menu a {
-    font-size: 0.85rem !important; /* 1.0remからさらに縮小 */
+    font-size: 0.6rem !important; 
     font-weight: 500 !important;
-    padding-top: 0.5rem !important;   /* 上下の余白を最小限に */
+    padding-top: 0.5rem !important; 
     padding-bottom: 0.5rem !important;
     line-height: 1.2 !important;
     display: block !important;
     width: 100% !important;
     text-align: center !important;
-    border-bottom: 0.5px solid rgba(0,0,0,0.05); /* 項目間の境界線を薄く入れる */
+    border-bottom: 0.5px solid rgba(0,0,0,0.05); 
 }
 
-/* 最後の項目の境界線を消す */
 #mobile-menu a:last-child {
     border-bottom: none !important;
 }
 
-/* --- 2. 自己紹介 (Greeting) の調整 --- */
+/* --- 2. 自己紹介 (Greeting) の改行有効化 --- */
 h2.mt-4.text-center.text-xl {
     white-space: pre-line !important; 
     line-height: 1.6 !important;
     display: block !important;
 }
 
-/* --- 3. 本文 (.mdファイル) の読みやすさ調整 --- */
+/* --- 3. 本文 (.mdファイル) の読みやすさと箇条書き --- */
 .prose p {
     margin-bottom: 1.5rem !important;
     line-height: 1.8 !important;
 }
 
-/* 箇条書きの設定（・を表示させ左寄せにする） */
+/* 箇条書きの「・」を表示させ左寄せにする */
 .prose ul {
     list-style-type: disc !important;
     padding-left: 1.5rem !important;
@@ -67,7 +66,6 @@ h2.mt-4.text-center.text-xl {
     color: #475569 !important;
 }
 
-/* 番号付きリスト */
 .prose ol {
     list-style-type: decimal !important;
     padding-left: 1.5rem !important;
@@ -80,19 +78,24 @@ h2.mt-4.text-center.text-xl {
 }
 
 /* --- 4. 記事一覧 (Courses/Blog) の左寄せ設定 --- */
+
+/* グリッド内のアイテム配置を左端に強制 */
 .grid.grid-cols-1.justify-items-center {
     justify-items: start !important;
 }
 
+/* PC（2列）表示の際も左端から並べる */
 @media (min-width: 1024px) {
     .lg\:grid-cols-2 {
         justify-items: start !important;
     }
 }
 
+/* 個別のカードを左寄せにする */
 .grid > a {
     width: 100%;
-    max-width: 42rem;
+    max-width: 42rem; /* デモサイトのカード幅に準拠 */
     margin-left: 0 !important;
     margin-right: auto !important;
+    display: block;
 }
