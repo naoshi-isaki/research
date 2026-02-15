@@ -29,7 +29,7 @@ theme = 'qubt'
     [[params.links]]
         x-twitter = "https://twitter.com/nisaki04"
     [[params.links]]
-        email = "cxzk1001@mail3.doshisha.ac.jp"
+        email = "mailto:cxzk1001@mail3.doshisha.ac.jp"
 
     # 表示設定
     columns = 4
