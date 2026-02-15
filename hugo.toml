@@ -7,17 +7,19 @@ theme = 'qubt'
     pagerSize = 10
 
 [params]
-    customCSS = ["css/custom.css"]
-    mainSections = ["post", "courses"]
-    
-    # Qubt標準のプロフィールカード設定
-    [params.author]
-        name = "Naoshi Isaki"
-        # 3重引用符で囲むことで、ソース内の改行を保持します
-        greeting = '''Graduate School of Policy and Management, Doshisha University
-比較政治学 / イギリス政治'''
-        image = "images/profile.jpg"
-        icon = "👋"
+    # L1nkrを有効化（階層に注意）
+    [params.l1nkr]
+        enable = true
+        [params.l1nkr.profile]
+            name = "Naoshi Isaki"
+            description = "Graduate School of Policy and Management, Doshisha University"
+            avatar = "images/profile.jpg"
+            status_emoji = "👋"
+        
+        [[params.l1nkr.links]]
+            name = "Researchmap"
+            url = "https://researchmap.jp/nisaki"
+            icon = "website" # またはSVGパス
 
     # SNSリンク設定（キー名を指定することでアイコンが自動生成されます）
     [[params.links]]
