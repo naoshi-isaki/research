@@ -8,17 +8,24 @@ theme = 'qubt'
 
 [params]
     customCSS = ["css/custom.css"]
-    l1nkr = true
-
-    # プロフィールカードの設定
-    [params.l1nkr.profile]
-        name = "Naoshi Isaki"
-        description = "Graduate School of Policy and Management, Doshisha University"
-        avatar = "images/profile.jpg" # static/images/ に置いた画像
-        # 右下の絵文字
-        status_emoji = "👋"
+    mainSections = ["post", "courses"]
     
-    # SNSリンク設定
+    # 1. L1nkr設定 (l1nkr = true は消して、テーブル定義のみにする)
+    [params.l1nkr]
+        enable = true
+        [params.l1nkr.profile]
+            name = "Naoshi Isaki"
+            description = "Graduate School of Policy and Management, Doshisha University"
+            avatar = "images/profile.jpg"
+            status_emoji = "👋"
+        
+        # L1nkr専用のリンク設定 (もしテーマがこちらを参照する場合)
+        [[params.l1nkr.links]]
+            name = "Researchmap"
+            url = "https://researchmap.jp/nisaki"
+            icon = "researchmap"
+
+    # 2. SNSリンク設定 (Qubt標準用)
     [[params.links]]
         website = "https://researchmap.jp/nisaki"
     [[params.links]]
@@ -26,15 +33,9 @@ theme = 'qubt'
     [[params.links]]
         x-twitter = "https://twitter.com/nisaki04"
     [[params.links]]
-        email = "mailto:cxzk1001@mail3.doshisha.ac.jp"
+        email = "cxzk1001@mail3.doshisha.ac.jp"
 
-    # レイアウト設定
-    columns = 4
-    icontext = true
-
-    mainSections = ["post", "courses"]
-
-# メニュー設定
+# --- 以下、メニュー設定等は変更なし ---
 [[menu.main]]
     identifier = "about"
     name = "About"
