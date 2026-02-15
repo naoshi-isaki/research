@@ -12,7 +12,7 @@ theme = 'qubt'
     name = "Naoshi Isaki"
     # デモサイトの h2 タグに相当する部分
     greeting = "Graduate School of Policy and Management, Doshisha University"
-    image = "images/profile.jpg"
+    image = "/images/profile.jpg"
     icon = "👋"
 
     # SNSリンク設定（キー名を指定することでアイコンが自動生成されます）
