@@ -8,12 +8,15 @@ theme = 'qubt'
 
 [params]
     customCSS = ["css/custom.css"]
+    l1nkr = true
 
-    [params.author]
-        name = "ISAKI Naoshi"
-        greeting = "Graduate School of Policy and Management, Doshisha University"
-        image = "assets/author.jpg"
-        icon = ":wave:"
+    # プロフィールカードの設定
+    [params.l1nkr.profile]
+        name = "Naoshi Isaki"
+        description = "Graduate School of Policy and Management, Doshisha University"
+        avatar = "images/profile.jpg" # static/images/ に置いた画像
+        # 右下の絵文字
+        status_emoji = "👋"
     
     # SNSリンク設定
     [[params.links]]
