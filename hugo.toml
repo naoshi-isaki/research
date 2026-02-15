@@ -57,5 +57,5 @@ theme = 'qubt'
 [[menu.main]]
     identifier = "blog"
     name = "Blog"
-    url = "/blog/"
+    url = "https://naoshi-isaki.github.io/nisaki-research/"
     weight = 40
