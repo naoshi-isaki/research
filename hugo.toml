@@ -1,7 +1,7 @@
 baseURL = 'https://naoshi-isaki.github.io/research/'
 languageCode = 'ja-jp'
 title = 'N.Isaki Research'
-theme = 'qubt'
+theme = 'gokarna'
 
 [pagination]
     pagerSize = 10
