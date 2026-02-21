@@ -7,3 +7,6 @@
 [submodule "themes/qubt"]
 	path = themes/qubt
 	url = https://github.com/chrede88/qubt
+[submodule "themes/gokarna"]
+	path = themes/gokarna
+	url = https://github.com/gokarna-theme/gokarna-hugo.git
