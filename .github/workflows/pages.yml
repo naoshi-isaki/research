@@ -1,0 +1,64 @@
+name: Deploy research website to Pages
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Verify search exclusion
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          from html.parser import HTMLParser
+          class Metadata(HTMLParser):
+              def __init__(self):
+                  super().__init__()
+                  self.in_head = False
+                  self.noindex = False
+              def handle_starttag(self, tag, attrs):
+                  if tag == 'head':
+                      self.in_head = True
+                  if tag == 'meta' and self.in_head:
+                      attrs = dict(attrs)
+                      if attrs.get('name', '').lower() == 'robots':
+                          self.noindex |= 'noindex' in [v.strip().lower() for v in attrs.get('content', '').split(',')]
+              def handle_endtag(self, tag):
+                  if tag == 'head':
+                      self.in_head = False
+          pages = list(Path('docs').rglob('*.html'))
+          if not pages:
+              raise SystemExit('No HTML pages found')
+          for page in pages:
+              parser = Metadata()
+              parser.feed(page.read_text(encoding='utf-8'))
+              if not parser.noindex:
+                  raise SystemExit(f'{page}: robots noindex is required')
+          print(f'Search exclusion verified for {len(pages)} HTML pages')
+          PY
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+      - name: Upload website
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
