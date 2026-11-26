@@ -1,10 +1,5 @@
 (() => {
   'use strict';
-  const citations = {
-    crisis: '伊﨑直志（2026）「イギリス労働党における『危機』言説の展開（1975–1984年）」『同志社政策科学研究』28(1): 47–58.',
-    galtan: '伊﨑直志（2025）「欧州政治におけるGAL–TAN対立軸研究の展開と展望―政党間競争の視角から」『同志社政策科学研究』27(1): 39–49. https://doi.org/10.14988/0002001265',
-    democracy: 'プシェヴォスキ，アダム（2023）『民主主義の危機―比較分析が示す変容』吉田徹・伊﨑直志訳，白水社.'
-  };
   const sessions = [
     ['イントロダクション：政治と政策','Introduction: politics and policy'],
     ['政策形成①：政策課題の形成','Policy formation I: agenda-setting'],
@@ -40,6 +35,7 @@
     document.querySelectorAll('[data-language]').forEach(button => button.setAttribute('aria-pressed', String(button.dataset.language === lang)));
     document.querySelectorAll('.dialog-close').forEach(button=>button.setAttribute('aria-label',lang === 'ja' ? '閉じる' : 'Close'));
     updateSessions();
+    updateFilterStatus();
     try { localStorage.setItem('isaki-site-language',lang); } catch (_) {}
   }
   document.querySelectorAll('[data-language]').forEach(button => button.addEventListener('click',()=>setLanguage(button.dataset.language)));
@@ -59,8 +55,14 @@
       publication.hidden = !show;
       if(show)count++;
     });
-    document.getElementById('filter-status').textContent = lang === 'ja' ? `${count}件の業績を表示しています。` : `Showing ${count} ${count === 1 ? 'publication' : 'publications'}.`;
+    updateFilterStatus();
   }));
+  function updateFilterStatus() {
+    const count = [...document.querySelectorAll('.publication')].filter(row => !row.hidden).length;
+    document.getElementById('filter-status').textContent = lang === 'ja'
+      ? `${count}件の業績を表示しています。`
+      : `Showing ${count} ${count === 1 ? 'publication' : 'publications'}.`;
+  }
   function toast(message) {
     const el = document.getElementById('toast');
     clearTimeout(toastTimeout);
@@ -68,10 +70,12 @@
     el.classList.add('visible');
     toastTimeout = setTimeout(()=>el.classList.remove('visible'),2800);
   }
-  document.querySelectorAll('.copy-citation').forEach(button=>button.addEventListener('click',async()=>{
-    const citation = citations[button.dataset.citation];
+  document.getElementById('publication-list').addEventListener('click', async event => {
+    const button = event.target.closest('.copy-citation');
+    if (!button) return;
+    const citation = button.dataset.citation;
     try {
-      if(!navigator.clipboard)throw new Error('Clipboard unavailable');
+      if (!navigator.clipboard) throw new Error('Clipboard unavailable');
       await navigator.clipboard.writeText(citation);
       toast(lang === 'ja' ? '引用情報をコピーしました' : 'Citation copied to clipboard');
     } catch (_) {
@@ -80,7 +84,75 @@
       document.getElementById('citation-text').focus();
       document.getElementById('citation-text').select();
     }
-  }));
+  });
+  function element(tag, className, value) {
+    const node = document.createElement(tag);
+    if (className) node.className = className;
+    if (value) node.textContent = value;
+    return node;
+  }
+  function bilingual(parent, ja, en) {
+    const a = element('span', '', ja), b = element('span', '', en);
+    a.setAttribute('data-ja', ''); b.setAttribute('data-en', '');
+    parent.append(a, b);
+  }
+  function publicationElement(record) {
+    if (!['article', 'translation', 'book'].includes(record.type) ||
+        typeof record.citation !== 'string' || !record.citation.trim() ||
+        typeof record.year !== 'string' || !/^\d{4}$/.test(record.year) ||
+        new URL(record.url).protocol !== 'https:') throw new Error('Invalid publication');
+    const row = element('article', 'publication'); row.dataset.type = record.type;
+    const year = element('div', 'pub-year', record.year);
+    bilingual(year, record.label_ja, record.label_en);
+    const main = element('div', 'pub-main');
+    main.append(element('h3', 'pub-citation', record.citation));
+    if (record.meta_en) {
+      const meta = element('p', 'pub-meta', record.meta_en);
+      meta.setAttribute('data-en', ''); main.append(meta);
+    }
+    const actions = element('div', 'pub-actions');
+    const link = element('a'); link.href = record.url;
+    link.target = '_blank'; link.rel = 'noopener noreferrer';
+    bilingual(link, '書誌情報', 'Publication record');
+    const button = element('button', 'copy-citation');
+    button.type = 'button'; button.dataset.citation = record.citation;
+    bilingual(button, '引用をコピー', 'Copy citation');
+    const svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+    svg.setAttribute('viewBox', '0 0 16 16'); svg.setAttribute('aria-hidden', 'true');
+    const path = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+    path.setAttribute('d', 'M5.5 5.5h8v8h-8zM10.5 5.5v-3h-8v8h3');
+    svg.append(path); button.append(svg); actions.append(link, button);
+    main.append(actions); row.append(year, main); return row;
+  }
+  function updateBookFilter() {
+    document.querySelector('[data-filter="book"]').hidden = !document.querySelector('.publication[data-type="book"]');
+  }
+  updateBookFilter();
+  async function refreshPublications() {
+    const list = document.getElementById('publication-list');
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 10000);
+    try {
+      const response = await fetch(list.dataset.feed, { cache: 'no-cache', signal: controller.signal });
+      if (!response.ok) throw new Error('Publication feed unavailable');
+      const records = await response.json();
+      if (!Array.isArray(records) || !records.length) throw new Error('Empty publication feed');
+      const rows = records.map(publicationElement);
+      const filter = document.querySelector('[data-filter].active').dataset.filter;
+      rows.forEach(row => { row.hidden = filter !== 'all' && row.dataset.type !== filter; });
+      // Keep an active citation button focused while the data refreshes.
+      const activeCitation = document.activeElement?.classList.contains('copy-citation')
+        ? document.activeElement.dataset.citation : null;
+      list.replaceChildren(...rows);
+      updateBookFilter();
+      updateFilterStatus();
+      if (activeCitation) [...list.querySelectorAll('.copy-citation')]
+        .find(button => button.dataset.citation === activeCitation)?.focus({ preventScroll: true });
+    } catch (_) {
+      // The bundled list and its copy buttons continue to work when offline.
+    } finally { clearTimeout(timeout); }
+  }
+  refreshPublications();
   document.querySelector('.citation-close').addEventListener('click',()=>citationDialog.close());
   document.getElementById('open-course').addEventListener('click',()=>courseDialog.showModal());
   courseDialog.querySelectorAll('.dialog-close,.dialog-close-bottom').forEach(button=>button.addEventListener('click',()=>courseDialog.close()));

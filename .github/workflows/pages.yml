@@ -1,12 +1,17 @@
-name: Deploy research website to Pages
+name: サイト更新・DOI / ISBNで業績追加
 
 on:
   push:
     branches: ["main"]
   workflow_dispatch:
+    inputs:
+      identifier:
+        description: "追加する業績のDOIまたはISBN（URL・ハイフン付き可／空欄なら再配信のみ）"
+        required: false
+        type: string
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -16,6 +21,7 @@ concurrency:
 
 jobs:
   deploy:
+    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
@@ -23,6 +29,28 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Test publication import and citation formatting
+        run: python3 -m unittest discover -s tests -v
+      - name: Add publication by DOI or ISBN
+        if: github.event_name == 'workflow_dispatch' && inputs.identifier != ''
+        env:
+          PUBLICATION_IDENTIFIER: ${{ inputs.identifier }}
+        run: python3 scripts/publications.py add
+      - name: Generate publication list
+        run: |
+          python3 scripts/publications.py build
+          python3 scripts/publications.py check
+      - name: Save publication changes
+        run: |
+          git add docs/publications.json docs/index.html
+          if ! git diff --cached --quiet; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "Update publication bibliography"
+            git push origin HEAD:main
+          fi
       - name: Verify search exclusion
         run: |
           python3 - <<'PY'
@@ -62,3 +90,4 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
