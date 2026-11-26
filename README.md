@@ -6,7 +6,7 @@ URL: https://naoshi-isaki.github.io/research/
 
 ## DOI・ISBNで業績を追加
 
-1. サイト下部の「業績を追加（DOI / ISBN）」、または [業績追加画面](https://github.com/naoshi-isaki/research/actions/workflows/pages.yml) を開きます。
+1. [管理者用の業績追加画面](https://github.com/naoshi-isaki/research/actions/workflows/pages.yml) を開きます。
 2. **Run workflow** を押し、ブランチは **main** のまま、DOIかISBNを入力します。DOIのURL、ハイフン付きISBN、ISBN-10も利用できます。
 3. **Run workflow** を実行します。書誌情報の取得、引用の整形、業績一覧への追加、保存、サイト更新まで自動で行います。結果はその実行のログで確認できます。
 
@@ -18,7 +18,7 @@ DOIはDOI財団のメタデータ取得サービス（JaLCを含む）を使い�
 
 ## 書誌表記
 
-表示と「引用をコピー」は同じ書誌データから生成されます。
+閲覧ページは「題名＋著者・掲載誌」の表示です。「引用をコピー」は同じ書誌データから以下の完全な引用を生成します。業績追加の入口は閲覧ページに表示しません。
 
 > 伊﨑直志（2026）「イギリス労働党における『危機』言説の展開（1975–1984年）」『同志社政策科学研究』28（1）、47–58。
 >
@@ -37,7 +37,7 @@ DOIは書誌データとリンクに保持し、コピー本文は上の形式�
 | フォント・アイコン | `docs/assets/` |
 | 内容の出典 | `SITE_SOURCES.md` |
 
-`publications.json` 内の `citation` は自動生成されます。修正する場合は `authors`、`translators`、`title`、`year`、`journal`、`volume`、`issue`、`pages`、`publisher` 等の元の項目を編集してください。DOI・ISBNのない業績も、このファイルへ直接追加できます。
+`publications.json` 内の `citation` と `meta_ja` は自動生成されます。修正する場合は `authors`、`translators`、`title`、`year`、`journal`、`volume`、`issue`、`pages`、`publisher` 等の元の項目を編集してください。DOI・ISBNのない業績も、このファイルへ直接追加できます。
 
 `main` にコミットすると GitHub Actions が書誌情報を整形し、`docs/` をGitHub Pagesへ配信します。表示用HTMLも生成するため、JavaScriptが無効な場合でも業績を読めます。業績以外の日本語は `data-ja`、英語は `data-en` の要素内を編集します。
 

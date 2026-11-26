@@ -259,6 +259,20 @@ def citation(record):
     return start + "『" + record["title"] + "』" + record["publisher"] + "。"
 
 
+def display_metadata(record):
+    names = "・".join(record.get("display_authors", record["authors"]))
+    if record["type"] == "article":
+        details = "『" + record["journal"] + "』" + str(record.get("volume", ""))
+        if record.get("issue"):
+            details += "（" + str(record["issue"]) + "）"
+        if record.get("pages"):
+            details += "、" + re.sub(r"(?<=\d)\s*[-–—]\s*(?=\d)", "–", str(record["pages"]))
+        return names + "｜" + details + "。"
+    if record.get("translators"):
+        names += " 著／" + "・".join(record["translators"]) + " 訳"
+    return names + "｜" + record["publisher"] + "。"
+
+
 def prepare(records):
     seen = set()
     for record in records:
@@ -268,6 +282,10 @@ def prepare(records):
             raise ValueError("業績ID・DOI・ISBNが重複しています。")
         seen.update(keys)
         record["citation"] = citation(record)
+        record["meta_ja"] = display_metadata(record)
+        link_ja, link_en = (("論文を読む", "Read article") if record.get("doi") else ("書誌情報", "Publication record")) if record["type"] == "article" else ("書籍情報", "Book details")
+        record.setdefault("link_label_ja", link_ja)
+        record.setdefault("link_label_en", link_en)
         ja, en = LABELS[record["type"]]
         record.setdefault("label_ja", ja)
         record.setdefault("label_en", en)
@@ -278,8 +296,8 @@ def render(records):
     escape = lambda value: html.escape(str(value), quote=True)
     rows = []
     for r in records:
-        meta = '<p class="pub-meta" data-en>' + escape(r["meta_en"]) + '</p>' if r.get("meta_en") else ''
-        rows.append(f'''          <article class="publication" data-type="{escape(r['type'])}"><div class="pub-year">{escape(r['year'])}<span data-ja>{escape(r['label_ja'])}</span><span data-en>{escape(r['label_en'])}</span></div><div class="pub-main"><h3 class="pub-citation">{escape(r['citation'])}</h3>{meta}<div class="pub-actions"><a href="{escape(r['url'])}" target="_blank" rel="noopener noreferrer"><span data-ja>書誌情報</span><span data-en>Publication record</span></a><button type="button" class="copy-citation" data-citation="{escape(r['citation'])}"><span data-ja>引用をコピー</span><span data-en>Copy citation</span><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M5.5 5.5h8v8h-8zM10.5 5.5v-3h-8v8h3"/></svg></button></div></div></article>''')
+        meta = '<p class="pub-meta"><span data-ja>' + escape(r["meta_ja"]) + '</span><span data-en>' + escape(r.get("meta_en") or r["meta_ja"]) + '</span></p>'
+        rows.append(f'''          <article class="publication" data-type="{escape(r['type'])}"><div class="pub-year">{escape(r['year'])}<span data-ja>{escape(r['label_ja'])}</span><span data-en>{escape(r['label_en'])}</span></div><div class="pub-main"><h3>{escape(r['title'])}</h3>{meta}<div class="pub-actions"><a href="{escape(r['url'])}" target="_blank" rel="noopener noreferrer"><span data-ja>{escape(r['link_label_ja'])}</span><span data-en>{escape(r['link_label_en'])}</span></a><button type="button" class="copy-citation" data-citation="{escape(r['citation'])}"><span data-ja>引用をコピー</span><span data-en>Copy citation</span><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M5.5 5.5h8v8h-8zM10.5 5.5v-3h-8v8h3"/></svg></button></div></div></article>''')
     return "\n".join(rows)
 
 

@@ -99,21 +99,21 @@
   function publicationElement(record) {
     if (!['article', 'translation', 'book'].includes(record.type) ||
         typeof record.citation !== 'string' || !record.citation.trim() ||
+        typeof record.title !== 'string' || typeof record.meta_ja !== 'string' ||
         typeof record.year !== 'string' || !/^\d{4}$/.test(record.year) ||
         new URL(record.url).protocol !== 'https:') throw new Error('Invalid publication');
     const row = element('article', 'publication'); row.dataset.type = record.type;
     const year = element('div', 'pub-year', record.year);
     bilingual(year, record.label_ja, record.label_en);
     const main = element('div', 'pub-main');
-    main.append(element('h3', 'pub-citation', record.citation));
-    if (record.meta_en) {
-      const meta = element('p', 'pub-meta', record.meta_en);
-      meta.setAttribute('data-en', ''); main.append(meta);
-    }
+    main.append(element('h3', '', record.title));
+    const meta = element('p', 'pub-meta');
+    bilingual(meta, record.meta_ja, record.meta_en || record.meta_ja);
+    main.append(meta);
     const actions = element('div', 'pub-actions');
     const link = element('a'); link.href = record.url;
     link.target = '_blank'; link.rel = 'noopener noreferrer';
-    bilingual(link, '書誌情報', 'Publication record');
+    bilingual(link, record.link_label_ja || '書誌情報', record.link_label_en || 'Publication record');
     const button = element('button', 'copy-citation');
     button.type = 'button'; button.dataset.citation = record.citation;
     bilingual(button, '引用をコピー', 'Copy citation');

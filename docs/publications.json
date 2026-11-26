@@ -15,7 +15,10 @@
     "label_ja": "論文",
     "label_en": "Article",
     "meta_en": "Naoshi Isaki · Doshisha University Policy & Management Review, 28(1), 47–58. [In Japanese]",
-    "citation": "伊﨑直志（2026）「イギリス労働党における『危機』言説の展開（1975–1984年）」『同志社政策科学研究』28（1）、47–58。"
+    "citation": "伊﨑直志（2026）「イギリス労働党における『危機』言説の展開（1975–1984年）」『同志社政策科学研究』28（1）、47–58。",
+    "meta_ja": "伊﨑直志｜『同志社政策科学研究』28（1）、47–58。",
+    "link_label_ja": "書誌情報",
+    "link_label_en": "Publication record"
   },
   {
     "id": "galtan",
@@ -34,7 +37,10 @@
     "label_ja": "研究ノート",
     "label_en": "Research note",
     "meta_en": "Naoshi Isaki · Doshisha University Policy & Management Review, 27(1), 39–49. [In Japanese]",
-    "citation": "伊﨑直志（2025）「欧州政治におけるGAL–TAN対立軸研究の展開と展望―政党間競争の視角から」『同志社政策科学研究』27（1）、39–49。"
+    "citation": "伊﨑直志（2025）「欧州政治におけるGAL–TAN対立軸研究の展開と展望―政党間競争の視角から」『同志社政策科学研究』27（1）、39–49。",
+    "meta_ja": "伊﨑直志｜『同志社政策科学研究』27（1）、39–49。",
+    "link_label_ja": "論文を読む",
+    "link_label_en": "Read article"
   },
   {
     "id": "democracy",
@@ -54,6 +60,12 @@
     "label_ja": "共訳書",
     "label_en": "Co-translation",
     "meta_en": "Adam Przeworski · Translated into Japanese by Toru Yoshida and Naoshi Isaki · Hakusuisha.",
-    "citation": "プシェヴォスキ, A.、吉田徹・伊﨑直志（訳）（2023）『民主主義の危機―比較分析が示す変容』白水社。"
+    "citation": "プシェヴォスキ, A.、吉田徹・伊﨑直志（訳）（2023）『民主主義の危機―比較分析が示す変容』白水社。",
+    "display_authors": [
+      "アダム・プシェヴォスキ"
+    ],
+    "meta_ja": "アダム・プシェヴォスキ 著／吉田徹・伊﨑直志 訳｜白水社。",
+    "link_label_ja": "書籍情報",
+    "link_label_en": "Book details"
   }
 ]
