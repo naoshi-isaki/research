@@ -2,7 +2,7 @@
 
 Verified 2026-11-11.
 
-- J-GLOBAL, 伊﨑直志, updated 2026-09-20: https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202401014096410782 — name, doctoral affiliation, education dates, degree, memberships, and the 2026 article's bibliographic details. This record states it is based on researchmap. The site links to the verified J-GLOBAL record rather than guessing a personal researchmap URL.
+- J-GLOBAL, 伊﨑直志, updated 2026-09-20: https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202401014096410782 — name, doctoral affiliation, education dates, degree, memberships, and the 2026 article's bibliographic details. This record states it is based on researchmap. The site links to the verified J-GLOBAL record; the researchmap URL was supplied directly by the user on 2026-11-26.
 - Doshisha University repository: https://doshisha.repo.nii.ac.jp/records/2001265 — 2025 GAL–TAN research note; Japanese and English author names; publication year, volume, issue, pages, DOI; verified ORCID link. No article text reproduced.
 - National Diet Library: https://ndlsearch.ndl.go.jp/books/R100000002-I032891161 — Adam Przeworski, 民主主義の危機：比較分析が示す変容, translated by Toru Yoshida and Naoshi Isaki, Hakusuisha, 2023. ISBN 9784560093580.
 
@@ -23,3 +23,5 @@ Do not add unverified affiliations, degrees, email addresses, awards, publicatio
 - Citation punctuation is generated locally; catalogue subtitle separators in Japanese (` : `) are rendered as `―`. Unknown metadata and translations are never supplied by inference.
 
 Presentation adjustment, 2026-11-26: restore standalone publication titles, separate author/venue metadata, and the earlier publication-link labels. Keep the requested Japanese citation text in copy buttons. Remove the management link from visitor-facing HTML; identifier imports remain available through GitHub Actions.
+
+- researchmap profile URL supplied directly by the user, 2026-11-26: https://researchmap.jp/nisaki . Linked from the profile section; no additional profile facts were imported.
